@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'Nombre_del_recurso_educativo',
-    descripcionCurso: 'Descripción_del_RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    componenteFormativo: 'Fundamentos contables y clasificación documental',
+    descripcionCurso:
+      'Este componente formativo aborda la información financiera y las políticas contables como base de la gestión organizacional. Desarrolla el estudio de las cuentas, la partida doble, la cuenta T y el Plan Único de Cuentas (PUC). Además, incluye documentos comerciales, comprobantes y registros contables, integrando normativa, revisión cruzada y conciliación para asegurar información clara y confiable.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,28 +32,93 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Información financiera',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo:
+              'Importancia de la información financiera en la gestión organizacional',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Usuarios internos y externos de la información financiera',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Estados financieros básicos',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Política contable',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Definición de política contable',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Estructura de las políticas contables',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Principios aplicables en Colombia',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Cuentas y Plan Único de Cuentas (PUC)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Método de la partida doble y cuenta T',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Estructura del PUC y clases de cuentas',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Documentos comerciales y comprobantes contables',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Tipos y normativa aplicable',
+            hash: 't_4_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Registros contables',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Concepto, tipos, revisión cruzada y conciliación',
+            hash: 't_5_1',
+          },
+        ],
       },
     ],
     subMenu: [
