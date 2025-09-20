@@ -47,7 +47,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img5.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-4
         .bloque-texto-c.color-primario.p-4
           i.fas.fa-quote-left
           h4.mb-2 una información financiera clara y sistemática es la base para gestionar con eficiencia el capital de trabajo, maximizar el valor de la empresa y garantizar la confianza de los inversionistas
@@ -60,7 +60,7 @@
           span - Muñoz Maza (2016) 
           i.fas.fa-quote-right
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.col-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
       .col-lg-6
@@ -174,7 +174,7 @@
         .titulo.mb-5(data-aos="fade-left")
           img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
           h5.mb-0 Clasificación de las empresas
-      .col-lg-4
+      .col-lg-4.col-8.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/img16.png', alt='Imagen decorativa')
       .col-lg-6
@@ -247,7 +247,7 @@
       h5.mb-0 Sociedades comerciales en Colombia
     p.mb-4 Las sociedades comerciales son formas jurídicas que permiten a dos o más personas asociarse para desarrollar actividades económicas. De acuerdo con el Código de Comercio colombiano, estas sociedades se diferencian principalmente por la responsabilidad de los socios, los requisitos legales y la estructura de capital.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7.order-2.order-lg-1
         .bloque-texto-c.color-primario.p-4.mb-4
           i.fas.fa-quote-left
           h4.mb-2 El marco legal de las sociedades comerciales en Colombia busca equilibrar la libertad empresarial con la protección de los socios y terceros vinculados a la actividad económica
@@ -262,7 +262,7 @@
             br
             span González (2021)
 
-      .col-lg-3
+      .col-lg-3.col-6.order-1.order-lg-2.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen decorativa')
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -538,7 +538,7 @@
     p.mb-4 El Decreto Reglamentario 2649 de 1993, en su artículo 1°, define la contabilidad como el conjunto de conceptos básicos y reglas que permiten identificar, medir, clasificar, registrar, interpretar, analizar, evaluar e informar, de manera clara, completa y fidedigna, la historia de los movimientos contables de una organización .
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.col-10.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/img25.png', alt='Imagen decorativa')
       .col-lg-7
@@ -570,7 +570,7 @@
       h5.mb-0 Funciones de la contabilidad
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.col-10.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/img26.png', alt='Imagen decorativa')
       .col-lg-7
@@ -684,48 +684,48 @@
       .col-lg-12(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Balance general (o Estado de situación financiera)")
-            .col-5
+            .col-5.col-12
               p Muestra, en una fecha de corte, los activos (recursos controlados), pasivos (obligaciones) y patrimonio (residuo entre activos y pasivos). Permite evaluar liquidez, solvencia y estructura financiera.
               p Componentes usuales: efectivo y equivalentes, cuentas por cobrar, inventarios, propiedades, planta y equipo (y su depreciación), cuentas por pagar, obligaciones financieras, provisiones y patrimonio (capital, reservas, resultados).
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img40.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de resultados (o de resultados integrales)")
-            .col-5
+            .col-5.col-12
               p Informa, para el periodo, ingresos, costos y gastos, determinando la utilidad o pérdida. Sirve para analizar rentabilidad, márgenes y eficiencia operativa.
               p Incluye ingresos operacionales y no operacionales, costos de ventas o de prestación del servicio, gastos de administración, ventas y financieros, e impuestos.
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img41.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de cambios en el patrimonio")
-            .col-5
+            .col-5.col-12
               p Explica las variaciones de cada rubro patrimonial entre el inicio y el cierre del periodo: aportes, reservas, resultados acumulados, resultado del ejercicio, distribuciones y otros movimientos. Conecta el resultado del periodo con el patrimonio y evidencia decisiones como capitalizaciones o dividendos.
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img42.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de flujos de efectivo")
-            .col-5
+            .col-5.col-12
               p Presenta entradas y salidas de efectivo y equivalentes, clasificadas en operación, inversión y financiación. Permite evaluar la capacidad de generar efectivo, cumplir obligaciones y financiar crecimiento.
               p Métodos: directo (cobros y pagos brutos) o indirecto (conciliando utilidad con flujo operativo).
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img43.png', alt='Texto que describa la imagen')
           .row(titulo="Notas a los estados financieros")
-            .col-5
+            .col-5.col-12
               p Revelan políticas contables aplicadas, estimaciones, juicios significativos, desgloses por rubro, contingencias y hechos posteriores. Son parte integral de los estados y dan contexto para su lectura.
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img44.png', alt='Texto que describa la imagen')
           .row(titulo="Relación entre los estados")
-            .col-5
+            .col-5.col-12
               p El estado de resultados genera la utilidad neta, que se incorpora al estado de cambios en el patrimonio; este, a su vez, explica las variaciones presentadas en el balance general. El estado de flujos de efectivo concilia la utilidad con el efectivo generado o usado, mostrando la “realidad de caja” del periodo.
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img45.png', alt='Texto que describa la imagen')
           .row(titulo="Buenas prácticas de presentación")
-            .col-5
+            .col-5.col-12
               p Incluir comparativos entre periodos, mantener la consistencia en las políticas contables aplicadas, garantizar cortes oportunos de la información y realizar conciliaciones periódicas. Asimismo, es fundamental presentar revelaciones claras y completas en las notas a los estados financieros, de manera que se asegure la transparencia, la trazabilidad y la adecuada interpretación de la información.
-            .col-6
+            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img46.png', alt='Texto que describa la imagen')
 
