@@ -5,7 +5,23 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 2
-      h1 Titulo_de_primer_nivel
+      h1 Política contable: definición, estructura, principios aplicables
+
+    separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.1	Definición de política contable
+
+    separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.2	Estructura de las políticas contables
+
+    separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.3	Principios aplicables en Colombia
+
+    separador
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.4	Referencia a estándares internacionales
 
 
 </template>

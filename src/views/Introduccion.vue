@@ -8,13 +8,22 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-10.mb-4(data-aos="zoom-in")
+        figure
+          img(src='@/assets/curso/temas/intro/imgintro.png', alt='Imagen decorativa')
+      .col-lg-8(data-aos="fade-left")
+        p La contabilidad es un pilar esencial en la gestión empresarial, pues permite registrar, organizar y comunicar la información financiera de manera clara y confiable. Más allá de una obligación legal, constituye una herramienta estratégica para la sostenibilidad de las organizaciones y la toma de decisiones informadas.
+        p.mb-5 Este componente formativo brinda una comprensión integral de la información financiera, las políticas contables que la sustentan, la tipología de cuentas y el Plan Único de Cuentas (PUC), los documentos comerciales y comprobantes, y los registros contables con sus procedimientos de revisión cruzada y conciliación.
+
+        .cajon.color-primario.p-4.mb-4
+          p.mb-0 A partir de este proceso, se desarrollan habilidades para identificar las características de las empresas, aplicar principios contables básicos, reconocer los soportes documentales y comprender la dinámica de las cuentas. Esta formación contribuye a garantizar registros contables transparentes y normativamente ajustados, fortaleciendo la gestión financiera en distintos contextos organizacionales.
+        p Para comprender la importancia del contenido y los temas abordados, se recomienda acceder al siguiente video: 
     .row.justify-content-center.align-items-center           
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            iframe(width="1312" height="738" src="https://www.youtube.com/embed/2kB3Q_XfMMY" title="Fundamentos contables y clasificación documental" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 </template>
 
 <script>
