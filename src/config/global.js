@@ -247,86 +247,117 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Información financiera',
+      termino: 'Activo',
       significado:
-        'conjunto de datos cuantitativos y cualitativos que describen la situación económica, patrimonial y de desempeño de una entidad.',
+        'bienes y derechos que posee una empresa y que representan beneficios económicos futuros.',
     },
     {
-      termino: 'Partida doble',
+      termino: 'Clasificación documental',
       significado:
-        'método contable que indica que toda transacción afecta al menos dos cuentas: una que se debita y otra que se acredita.',
+        'organización sistemática de los documentos según su tipo, origen y finalidad para facilitar su manejo y control.',
     },
     {
       termino: 'Cuenta T',
       significado:
-        'representación gráfica en forma de T que ayuda a ilustrar los débitos y créditos de una cuenta contable.',
+        'herramienta gráfica que representa el débito y crédito de una cuenta para facilitar su análisis.',
+    },
+    {
+      termino: 'Ciclo contable',
+      significado:
+        'proceso completo de registro, clasificación, resumen e interpretación de las operaciones financieras durante un período.',
+    },
+    {
+      termino: 'Documento soporte',
+      significado:
+        'comprobante que respalda las transacciones contables, como facturas, recibos o contratos.',
+    },
+    {
+      termino: 'Estado de resultados',
+      significado:
+        'informe financiero que muestra los ingresos, gastos y utilidad o pérdida en un período determinado.',
+    },
+    {
+      termino: 'Gastos',
+      significado:
+        'costos o consumos que la empresa incurre para operar y generar ingresos.',
+    },
+    {
+      termino: 'Ingresos',
+      significado:
+        'beneficios económicos que obtiene la empresa por la venta de bienes o prestación de servicios.',
+    },
+    {
+      termino: 'Inventarios',
+      significado:
+        'conjunto de bienes disponibles para la venta o producción dentro de una empresa.',
+    },
+    {
+      termino: 'Partida doble',
+      significado:
+        'principio contable que establece que toda transacción afecta al menos dos cuentas, manteniendo el equilibrio contable.',
+    },
+    {
+      termino: 'Patrimonio',
+      significado:
+        'recursos netos de la empresa, resultado de la diferencia entre activos y pasivos.',
     },
     {
       termino: 'Plan Único de Cuentas (PUC)',
       significado:
-        'herramienta contable estandarizada en Colombia que permite codificar y clasificar las cuentas contables.',
-    },
-    {
-      termino: 'Política contable',
-      significado:
-        'principios, reglas y procedimientos aplicados por una entidad para el registro y presentación de hechos económicos.',
-    },
-    {
-      termino: 'Documentos comerciales',
-      significado:
-        'evidencia física o digital de las transacciones mercantiles de una empresa.',
-    },
-    {
-      termino: 'Comprobantes contables',
-      significado:
-        'documentos internos que respaldan el registro de hechos económicos en la contabilidad.',
+        'catálogo estandarizado de cuentas utilizado en Colombia para organizar y uniformar los registros contables.',
     },
     {
       termino: 'Registro contable',
       significado:
-        'anotación sistemática de las transacciones económicas de una organización en libros autorizados.',
+        'proceso de anotar y clasificar las transacciones económicas en las cuentas correspondientes.',
+    },
+    {
+      termino: 'Cuentas por pagar',
+      significado:
+        'deudas u obligaciones financieras que la empresa tiene con terceros.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Ortiz Anaya (2018). “Una información financiera clara y sistemática es la base para gestionar con eficiencia el capital de trabajo, maximizar el valor de la empresa y garantizar la confianza de los inversionistas” (p. 45).',
+        'Burbano Ruiz, J. E. (2011). <em>Presupuestos: Un enfoque estratégico, gestión y control de recursos</em> (4.ª ed.). McGraw-Hill Latinoamericana.',
       link: '',
     },
     {
       referencia:
-        'Muñoz Maza (2016). “La contabilidad, más que un requisito legal, es un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para la planeación y el control” (p. 34).',
+        'Fierro, H. (2011). <em>Contabilidad general: fundamentos y aplicaciones</em>. Ecoe Ediciones.',
       link: '',
     },
     {
       referencia:
-        'González (2021). “La contabilidad es un puente de confianza entre la organización y sus grupos de interés, pues a través de ella se demuestra la correcta administración de los recursos” (p. 89).',
+        'González, J. (2021). <em>Fundamentos de contabilidad financiera</em>. Editorial Universidad Cooperativa de Colombia.',
       link: '',
     },
     {
       referencia:
-        'Fierro (2011). Referente del ciclo contable y clasificación de cuentas en el PUC.',
+        'León García, M. (2009). <em>Teoría contable y estados financieros</em>. McGraw-Hill Interamericana.',
       link: '',
     },
     {
       referencia:
-        'Decreto 2649 de 1993. Normas contables generalmente aceptadas en Colombia.',
+        'Muñoz Maza, J. (2016). <em>Contabilidad: teoría y práctica</em>. Fondo Editorial Universidad EAFIT.',
       link: '',
     },
     {
       referencia:
-        'Código de Comercio (1971). Régimen legal de sociedades y contabilidad en Colombia.',
+        'Ortiz Anaya, A. (2018). <em>Contabilidad financiera: una perspectiva práctica.</em> Ediciones de la U.',
       link: '',
     },
     {
       referencia:
-        'Ley 1314 de 2009. Convergencia hacia estándares internacionales (NIIF).',
-      link: '',
+        'Servicio Nacional de Aprendizaje SENA. (2023). <em>Clasificación Nacional de Ocupaciones: Diccionario ocupacional e índice alfabético de denominaciones ocupacionales.</em>',
+      link: 'https://observatorio.sena.edu.co/clasificacion/cno',
     },
     {
       referencia:
-        'Decreto 2650 de 1993. Establece el Plan Único de Cuentas (PUC).',
-      link: '',
+        'Servicio Nacional de Aprendizaje (SENA). (2015). <em>Sistema Nacional de Formación para el Trabajo.</em>',
+      link:
+        'https://competencias.sena.edu.co/page?3,plantilla,productos-aprobados,O,es,0',
     },
   ],
   creditos: [
