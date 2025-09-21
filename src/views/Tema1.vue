@@ -684,48 +684,48 @@
       .col-lg-12(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Balance general (o Estado de situación financiera)")
-            .col-5.col-12
+            .col-lg-5.col-12
               p Muestra, en una fecha de corte, los activos (recursos controlados), pasivos (obligaciones) y patrimonio (residuo entre activos y pasivos). Permite evaluar liquidez, solvencia y estructura financiera.
               p Componentes usuales: efectivo y equivalentes, cuentas por cobrar, inventarios, propiedades, planta y equipo (y su depreciación), cuentas por pagar, obligaciones financieras, provisiones y patrimonio (capital, reservas, resultados).
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img40.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de resultados (o de resultados integrales)")
-            .col-5.col-12
+            .col-lg-5.col-12
               p Informa, para el periodo, ingresos, costos y gastos, determinando la utilidad o pérdida. Sirve para analizar rentabilidad, márgenes y eficiencia operativa.
               p Incluye ingresos operacionales y no operacionales, costos de ventas o de prestación del servicio, gastos de administración, ventas y financieros, e impuestos.
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img41.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de cambios en el patrimonio")
-            .col-5.col-12
+            .col-lg-5.col-12
               p Explica las variaciones de cada rubro patrimonial entre el inicio y el cierre del periodo: aportes, reservas, resultados acumulados, resultado del ejercicio, distribuciones y otros movimientos. Conecta el resultado del periodo con el patrimonio y evidencia decisiones como capitalizaciones o dividendos.
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img42.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de flujos de efectivo")
-            .col-5.col-12
+            .col-lg-5.col-12
               p Presenta entradas y salidas de efectivo y equivalentes, clasificadas en operación, inversión y financiación. Permite evaluar la capacidad de generar efectivo, cumplir obligaciones y financiar crecimiento.
               p Métodos: directo (cobros y pagos brutos) o indirecto (conciliando utilidad con flujo operativo).
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img43.png', alt='Texto que describa la imagen')
           .row(titulo="Notas a los estados financieros")
-            .col-5.col-12
+            .col-lg-5.col-12
               p Revelan políticas contables aplicadas, estimaciones, juicios significativos, desgloses por rubro, contingencias y hechos posteriores. Son parte integral de los estados y dan contexto para su lectura.
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img44.png', alt='Texto que describa la imagen')
           .row(titulo="Relación entre los estados")
             .col-5.col-12
               p El estado de resultados genera la utilidad neta, que se incorpora al estado de cambios en el patrimonio; este, a su vez, explica las variaciones presentadas en el balance general. El estado de flujos de efectivo concilia la utilidad con el efectivo generado o usado, mostrando la “realidad de caja” del periodo.
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img45.png', alt='Texto que describa la imagen')
           .row(titulo="Buenas prácticas de presentación")
-            .col-5.col-12
+            .col-lg-5.col-12
               p Incluir comparativos entre periodos, mantener la consistencia en las políticas contables aplicadas, garantizar cortes oportunos de la información y realizar conciliaciones periódicas. Asimismo, es fundamental presentar revelaciones claras y completas en las notas a los estados financieros, de manera que se asegure la transparencia, la trazabilidad y la adecuada interpretación de la información.
-            .col-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img46.png', alt='Texto que describa la imagen')
 

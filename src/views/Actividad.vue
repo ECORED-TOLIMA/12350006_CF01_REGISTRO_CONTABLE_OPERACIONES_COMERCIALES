@@ -13,9 +13,10 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'tema_actividad_didactica',
+      tema: 'Explorando el ciclo contable.',
       titulo: 'Cuestionario',
-      introduccion: 'texto_introductorio_actividad_didactica',
+      introduccion:
+        'Evaluar la comprensión de los conceptos básicos de contabilidad desarrollados en el componente, incluyendo el concepto e importancia de la información financiera, la definición y aplicación de políticas contables, los tipos de cuentas y la estructura del Plan Único de Cuentas (PUC), así como la identificación y uso de documentos comerciales y comprobantes contables.',
       barajarPreguntas: true,
       preguntas: [
         {
