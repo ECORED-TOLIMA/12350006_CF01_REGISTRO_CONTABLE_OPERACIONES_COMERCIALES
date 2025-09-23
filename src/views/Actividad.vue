@@ -60,7 +60,7 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un adecuado dominio de los conceptos clave sobre la importancia de la contabilidad...',
+            '¡Excelente trabajo! Se evidencia un adecuado dominio de los conceptos clave sobre la importancia de la contabilidad, la clasificación de las empresas, el desarrollo del ciclo contable y la aplicación del Plan Único de Cuentas como herramienta normativa en Colombia.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

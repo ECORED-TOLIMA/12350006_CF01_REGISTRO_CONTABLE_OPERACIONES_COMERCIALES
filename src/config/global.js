@@ -386,7 +386,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Javier Eduardo Diaz Machuca ',
+          nombre: 'Gustavo Ernesto Mariño Puentes',
           cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -400,6 +400,11 @@ export default {
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador web',
@@ -422,7 +427,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Gilberto Junior Rodríguez Rodríguez ',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
