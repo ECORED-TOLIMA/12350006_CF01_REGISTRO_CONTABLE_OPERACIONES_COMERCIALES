@@ -123,7 +123,7 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          '4.	Documentos comerciales y comprobantes contables: definición, tipos, características, normativa',
+          'Documentos comerciales y comprobantes contables: definición, tipos, características, normativa',
         desarrolloContenidos: true,
         subMenu: [
           {
