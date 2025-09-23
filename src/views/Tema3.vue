@@ -336,16 +336,6 @@
       h5.mb-0 Dinámica de la cuenta T
     p Tradicionalmente, la cuenta T ha sido utilizada como una herramienta visual para representar los movimientos contables. Sin embargo, en la práctica contable actual, este método ha dejado de usarse para la elaboración formal de los registros contables.
     p.mb-4 Las cuentas T han sido sustituidas por registros oficiales que sirven de base para la elaboración de los comprobantes de contabilidad y los libros auxiliares correspondientes. Además, estos procesos están siendo cada vez más reemplazados por #[i software] especializado, que automatiza y facilita la gestión contable.
-    .titulo-sexto.color-acento-contenido.offset-1
-        h5 Figura 1.
-        i Dinámica de la cuenta T 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desctop(data-aos="zoom-in")
-        figura
-          img(src='@/assets/curso/temas/tema3/img23.svg', alt='Diagrama de la cuenta T con dos columnas. A la izquierda, lado débito: movimientos y saldos se registran como débitos. A la derecha, lado crédito: movimientos incluyen débitos y créditos, y los saldos se registran como créditos. ')
-      .col-lg-10.movil(data-aos="zoom-in")
-        figura
-          img(src='@/assets/curso/temas/tema3/img23_1.svg', alt='Diagrama de la cuenta T con dos columnas. A la izquierda, lado débito: movimientos y saldos se registran como débitos. A la derecha, lado crédito: movimientos incluyen débitos y créditos, y los saldos se registran como créditos. ')
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Método de la ecuación contable
