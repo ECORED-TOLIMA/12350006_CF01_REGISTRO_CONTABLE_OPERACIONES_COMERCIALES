@@ -162,7 +162,7 @@
     #t4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Comprobantes contables internos
     p Además de los soportes externos, como facturas, extractos bancarios o recibos de caja, las organizaciones generan soportes contables internos. Estos documentos son creados dentro de la empresa para registrar operaciones que no siempre cuentan con un respaldo externo, pero que igualmente deben quedar documentadas en la contabilidad.
-    p.mb-4 Su función principal es garantizar que todas las operaciones, incluidas las de ajuste, reclasificación o corrección, cuenten con un documento válido que justifique el asiento contable .
+    p.mb-4 Su función principal es garantizar que todas las operaciones, incluidas las de ajuste, reclasificación o corrección, cuenten con un documento válido que justifique el asiento contable.
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.dvprimario.p-5
         .row.justify-content-center.mb-4

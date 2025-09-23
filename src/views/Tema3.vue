@@ -74,7 +74,7 @@
                 td Pagos derivados de la enajenación de activos o valoraciones económicas.
     #t3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2	Clasificación de las cuentas
-    p.mb-4 De acuerdo con Fierro (2011), las cuentas pueden clasificarse según dos criterios: su naturaleza y el estado financiero en el que se presentan .
+    p.mb-4 De acuerdo con Fierro (2011), las cuentas pueden clasificarse según dos criterios: su naturaleza y el estado financiero en el que se presentan.
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Según su naturaleza
@@ -155,7 +155,7 @@
           p Valor de la mercancía vendida o de la producción realizada. En empresas manufactureras incluyen materias primas, mano de obra y costos indirectos de fabricación.
     .titulo.mb-4(data-aos="fade-left")
       h5.mb-0 C. Cuentas de orden
-    p.mb-4 No afectan directamente los estados financieros, pero registran hechos económicos que pueden tener consecuencias futuras .
+    p.mb-4 No afectan directamente los estados financieros, pero registran hechos económicos que pueden tener consecuencias futuras.
     .row.mb-5
       .col-lg-6.mb-lg-0.mb-4
         .tarjeta.tarjeta--BG06.h-100
@@ -175,7 +175,7 @@
     separador
     #t3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3	 Método de la partida doble 
-    p.mb-4 El método de la partida doble es la base de la contabilidad moderna. Establece que cada transacción afecta al menos dos cuentas: una que se debita y otra que se acredita por el mismo valor. Esto garantiza que la ecuación contable siempre se mantenga en equilibrio: #[b Activo = Pasivo + Patrimonio]
+    p.mb-4 El método de la partida doble es la base de la contabilidad moderna. Establece que cada transacción afecta al menos dos cuentas: una que se debita y otra que se acredita por el mismo valor. Esto garantiza que la ecuación contable siempre se mantenga en equilibrio: #[b Activo = Pasivo + Patrimonio.]
     .titulo-sexto.color-acento-contenido.offset-1
         h5 Tabla 6.
         i Dinámica de las cuentas
@@ -254,7 +254,7 @@
     #t3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4	Método de la cuenta T
     p La cuenta T es una representación gráfica sencilla y tradicional que se utiliza para explicar cómo se registran las operaciones contables. Su nombre proviene de su forma, que asemeja a una gran letra “T” dividida en dos columnas.
-    p.mb-4 En la parte superior se escribe el código y el concepto o nombre de la cuenta, mientras que cada lado de la “T” cumple una función específica :
+    p.mb-4 En la parte superior se escribe el código y el concepto o nombre de la cuenta, mientras que cada lado de la “T” cumple una función específica:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones
@@ -300,13 +300,13 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-circle
-                    |  #[b Activos:] Aumentan con débitos y disminuyen con créditos.
+                    |  #[b Activos:] aumentan con débitos y disminuyen con créditos.
                   li
                     i.fas.fa-circle
-                    |  #[b Gastos:] Aumentan con débitos y disminuyen con créditos.
+                    |  #[b Gastos:] aumentan con débitos y disminuyen con créditos.
                   li
                     i.fas.fa-circle
-                    |  #[b Costos:] Aumentan con débitos y disminuyen con créditos.
+                    |  #[b Costos:] aumentan con débitos y disminuyen con créditos.
                   
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
@@ -319,13 +319,13 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-circle
-                    |  #[b Pasivos:] Aumentan con créditos y disminuyen con débitos.
+                    |  #[b Pasivos:] aumentan con créditos y disminuyen con débitos.
                   li
                     i.fas.fa-circle
-                    |  #[b Patrimonio:] Aumenta con créditos y disminuye con débitos.
+                    |  #[b Patrimonio:] aumenta con créditos y disminuye con débitos.
                   li
                     i.fas.fa-circle
-                    |  #[b Ingresos:] Aumentan con créditos y disminuyen con débitos.
+                    |  #[b Ingresos:] aumentan con créditos y disminuyen con débitos.
                   
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
@@ -575,7 +575,7 @@
     .titulo.mb-5(data-aos="fade-left")
       h5.mb-0 Clase 2. Pasivo
     p Agrupa las cuentas que representan las obligaciones que la empresa ha adquirido para llevar a cabo sus actividades, las cuales deben ser canceladas en dinero, bienes o servicios. Todas las cuentas de esta clase tienen saldo de naturaleza crédito, ya que reflejan deudas o compromisos pendientes de pago.
-    p.mb-4 Dentro de esta clase se encuentran los siguientes grupos principales :
+    p.mb-4 Dentro de esta clase se encuentran los siguientes grupos principales:
     SlyderF.color-acento-botones.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
@@ -629,7 +629,7 @@
       h5.mb-0 Clase 3. Patrimonio
     p La clase 3 agrupa las cuentas que representan el patrimonio neto de la empresa, es decir, la diferencia entre el total de activos y el pasivo externo. Este patrimonio está compuesto por los recursos netos aportados por los socios, accionistas o propietarios, así como por las utilidades acumuladas y otras reservas.
     p Según el PUC, el patrimonio incluye aportes de socios, superávit de capital, reservas, revalorización del patrimonio, dividendos o participaciones, resultados del ejercicio, resultados de ejercicios anteriores y superávit por valorizaciones.
-    p A continuación, se describen los principales grupos dentro de esta clase :
+    p A continuación, se describen los principales grupos dentro de esta clase:
     .row.justify-content-center.align-items-center.mb-5    
       .col-lg-5.col-8.mb-4(data-aos="zoom-in")
         figure
@@ -651,7 +651,7 @@
     .titulo.mb-5(data-aos="fade-left")
       h5.mb-0 Clase 4. Ingresos
     p Esta clase agrupa las cuentas que representan los beneficios operativos y financieros que la empresa percibe para desarrollar normalmente su actividad comercial durante un período determinado. Es importante destacar que todos estos ingresos deben registrarse en moneda nacional (pesos).
-    p.mb-4 Los ingresos se clasifican en dos grandes grupos :
+    p.mb-4 Los ingresos se clasifican en dos grandes grupos:
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.dvprimario.p-5
         .row.justify-content-center.mb-4
@@ -671,7 +671,7 @@
       h5.mb-0 Clase 5. Gastos
     p Esta clase agrupa las cuentas que representan los costos operativos y financieros que la empresa incurre para llevar a cabo su actividad productiva.
     p El PUC establece que, mediante el sistema de causación, se registrarán los gastos causados, incluso si aún no se ha realizado el pago. Un gasto se considera causado cuando nace la obligación de pagarlo, independientemente de que se haya pagado efectivamente. 
-    p.mb-4 Los gastos se clasifican en tres grandes grupos :
+    p.mb-4 Los gastos se clasifican en tres grandes grupos:
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")

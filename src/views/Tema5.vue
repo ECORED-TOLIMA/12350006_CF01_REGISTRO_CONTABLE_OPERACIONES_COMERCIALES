@@ -42,7 +42,7 @@
             | Facilitar la toma de decisiones administrativas y financieras.
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 5.1 Documentos comerciales
+      h2 5.1 Tipos de registros contables
     p.mb-4 Los registros pueden clasificarse según su función y nivel de detalle:
     .titulo-sexto.color-acento-contenido.offset-0
       h5 Tabla 11.
@@ -82,7 +82,7 @@
 
     separador
     #t5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 5.2 Comprobantes contables internos
+      h2 5.2 Normativa aplicable
     p.mb-4 El marco legal que regula los registros contables en Colombia incluye:
     .tarjeta--BG01.p-4.px-md-5.mb-4
       .tarjeta.tarjeta--FBG01.p-4.my-4(data-aos="fade-left")
@@ -131,7 +131,7 @@
     separador
     .tarjeta-BG05.px-md-5.px-4
       #t5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 5.3 Normativa aplicable
+        h2 5.3 Revisión cruzada
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.mb-4(data-aos="zoom-in")
           figure
@@ -160,18 +160,13 @@
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Tipos de conciliación
-      
-      
-      
-      
-    
     .desktop
       .row.mb-5
         .col-6.col-md-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
             .indicador--hover(v-if="indicadorTarjetaSlide")
             .tarjeta-slide__contenedor
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img21.png')})`}")
+              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img10.png')})`}")
               .tarjeta-slide__contenido.p-4.p-xl-5
                 h4 Conciliación bancaria
                 p Saldo en libros vs. saldo en extractos bancarios.
@@ -179,7 +174,7 @@
         .col-6.col-md-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
             .tarjeta-slide__contenedor
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img22.png')})`}")
+              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img11.png')})`}")
               .tarjeta-slide__contenido.p-4.p-xl-5
                 h4 Conciliación de cuentas por cobrar
                 p Registros internos vs. confirmación de clientes.
@@ -190,7 +185,7 @@
         .col-6.col-md-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
             .tarjeta-slide__contenedor
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img23.png')})`}")
+              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img12.png')})`}")
               .tarjeta-slide__contenido.p-4.p-xl-5
                 h4 Conciliación de cuentas por pagar
                 p Registros internos vs. confirmación de proveedores.
@@ -198,7 +193,7 @@
         .col-6.col-md-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
             .tarjeta-slide__contenedor
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img24.png')})`}")
+              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img13.png')})`}")
               .tarjeta-slide__contenido.p-4.p-xl-5
                 h4 Conciliación fiscal
                 p Registros contables vs. declaraciones tributarias presentadas.
@@ -208,28 +203,28 @@
         .col-10
           .tarjeta.tarjeta--BG02.p-4
             figure.mb-3
-              img(src='@/assets/curso/temas/tema1/img21_1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema5/img10_1.png', alt='Imagen decorativa')
             h4 Conciliación bancaria
             p Saldo en libros vs. saldo en extractos bancarios.
       .row.justify-content-center.align-items-center.mb-5
         .col-10
           .tarjeta.tarjeta--BG02.p-4
             figure.mb-3
-              img(src='@/assets/curso/temas/tema1/img22_1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema5/img11_1.png', alt='Imagen decorativa')
             h4 Conciliación de cuentas por cobrar
             p Registros internos vs. confirmación de clientes.
       .row.justify-content-center.align-items-center.mb-5
         .col-10
           .tarjeta.tarjeta--BG02.p-4
             figure.mb-3
-              img(src='@/assets/curso/temas/tema1/img23_1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema5/img12_1.png', alt='Imagen decorativa')
             h4 Conciliación de cuentas por pagar
             p Registros internos vs. confirmación de proveedores.
       .row.justify-content-center.align-items-center.mb-5
         .col-10
           .tarjeta.tarjeta--BG02.p-4
             figure.mb-3
-              img(src='@/assets/curso/temas/tema1/img24_1.png', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema5/img13_1.png', alt='Imagen decorativa')
             h4 Conciliación fiscal
             p Registros contables vs. declaraciones tributarias presentadas.
             

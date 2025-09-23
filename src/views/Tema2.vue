@@ -59,7 +59,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
           .cajon.color-primario.p-4
-            .row
+            .row.justify-content-center.align-items-center
               .col-lg-2.col-4.mb-4.mb-lg-0
                 figura
                   img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')

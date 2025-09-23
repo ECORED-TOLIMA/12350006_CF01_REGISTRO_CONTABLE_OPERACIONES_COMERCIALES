@@ -14,11 +14,23 @@
     right: 20%
   &-3
     width: 90px
-    animation: float1 6s ease-in-out infinite alternate
+    animation: scale 6.8s ease-in-out infinite alternate
     position: absolute
-    top: 35%
-    right: 95%
-
+    top: 11%
+    right: 79%
+  &-4
+    width: 90px
+    animation: scale 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 8%
+    right: 77%
+  &-5
+    width: 70px
+    animation: rotation 4s infinite linear
+    position: absolute
+    bottom: 15%
+    left: 15%
+    z-index: -1
 
 @-webkit-keyframes rotation 
   from 
@@ -90,6 +102,8 @@
   
 .bloque-texto-b.color-secundario:before
   background-color:#CCF6EC
+i.fas.fa-quote-right, i.fas.fa-quote-left
+    color: #00D1A1 !important
 .bloque-texto-g.color-primario
   background-color:#88C0DE
 .cajon.color-primario
@@ -347,6 +361,12 @@ table thead
   border: $color-acento-botones
   .fas.fa-angle-up:before
     color: white !important
+  
+i.fas.fa-quote-right
+  float: inline-end
+
+
+
 .crd_hover_txt
   position: relative  
   padding: 0 !important

@@ -50,13 +50,13 @@
       .col-lg-5.mb-4
         .bloque-texto-c.color-primario.p-4
           i.fas.fa-quote-left
-          h4.mb-2 una información financiera clara y sistemática es la base para gestionar con eficiencia el capital de trabajo, maximizar el valor de la empresa y garantizar la confianza de los inversionistas
+          h4.mb-2 Una información financiera clara y sistemática es la base para gestionar con eficiencia el capital de trabajo, maximizar el valor de la empresa y garantizar la confianza de los inversionistas
           span - Ortiz Anaya (2018) 
           i.fas.fa-quote-right
       .col-lg-5
         .bloque-texto-c.color-primario.p-4
           i.fas.fa-quote-left
-          h4.mb-2 la contabilidad, más que un requisito legal, es un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para la planeación y el control
+          h4.mb-2 La contabilidad, más que un requisito legal, es un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para la planeación y el control
           span - Muñoz Maza (2016) 
           i.fas.fa-quote-right
     .row.justify-content-center.align-items-center.mb-5
@@ -128,37 +128,37 @@
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema1/img10.svg' alt='Imagen decorativa')
         h5.text-center Propietarios y accionistas
-        p.text-center.mb-0 determinan la rentabilidad de su inversión y deciden mantener, aumentar o retirar su participación en el negocio.
+        p.text-center.mb-0 Determinan la rentabilidad de su inversión y deciden mantener, aumentar o retirar su participación en el negocio.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema1/img11.svg' alt='Imagen decorativa')
         h5.text-center Inversionistas potenciales
-        p.text-center.mb-0 analizan la estabilidad y perspectivas de crecimiento de la entidad antes de comprometer capital.
+        p.text-center.mb-0 Analizan la estabilidad y perspectivas de crecimiento de la entidad antes de comprometer capital.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema1/img12.svg' alt='Imagen decorativa')
         h5.text-center Proveedores y acreedores
-        p.text-center.mb-0 necesitan conocer la liquidez y solvencia de la empresa para definir condiciones de crédito o continuidad en la relación comercial.
+        p.text-center.mb-0 Necesitan conocer la liquidez y solvencia de la empresa para definir condiciones de crédito o continuidad en la relación comercial.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='Imagen decorativa')
         h5.text-center Entidades financieras
-        p.text-center.mb-0 evalúan la capacidad de pago de los préstamos otorgados o solicitados.
+        p.text-center.mb-0 Evalúan la capacidad de pago de los préstamos otorgados o solicitados.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema1/img14.svg' alt='Imagen decorativa')
         h5.text-center Estado y entes de control
-        p.text-center.mb-0 utilizan la información para verificar el cumplimiento de normas contables, tributarias y legales.
+        p.text-center.mb-0 Utilizan la información para verificar el cumplimiento de normas contables, tributarias y legales.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema1/img15.svg' alt='Imagen decorativa')
         h5.text-center Sociedad en general
-        p.text-center.mb-0 puede interesarse en la transparencia de las operaciones, el aporte al desarrollo económico y la responsabilidad social empresarial.
+        p.text-center.mb-0 Puede interesarse en la transparencia de las operaciones, el aporte al desarrollo económico y la responsabilidad social empresarial.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -400,7 +400,7 @@
             p.mt-3.px-4 Combinan capital público y privado para proyectos estratégicos.
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img20_1.png')})`}"
+      :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img20_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Según Muñoz Maza (2016):
@@ -439,7 +439,7 @@
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Clasificación de empresas según su función social
     p Además de su finalidad económica, las empresas pueden clasificarse según su aporte al bienestar colectivo.
-    p.mb-5 A continuación, se presentan las diferentes funciones sociales y sus respectivos enfoques :
+    p.mb-5 A continuación, se presentan las diferentes funciones sociales y sus respectivos enfoques:
 
     .desktop
       .row.mb-5
@@ -535,7 +535,7 @@
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Concepto y objetivos de la contabilidad
-    p.mb-4 El Decreto Reglamentario 2649 de 1993, en su artículo 1°, define la contabilidad como el conjunto de conceptos básicos y reglas que permiten identificar, medir, clasificar, registrar, interpretar, analizar, evaluar e informar, de manera clara, completa y fidedigna, la historia de los movimientos contables de una organización .
+    p.mb-4 El Decreto Reglamentario 2649 de 1993, en su artículo 1°, define la contabilidad como el conjunto de conceptos básicos y reglas que permiten identificar, medir, clasificar, registrar, interpretar, analizar, evaluar e informar, de manera clara, completa y fidedigna, la historia de los movimientos contables de una organización.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-10.mb-4(data-aos="zoom-in")
@@ -575,7 +575,7 @@
           img(src='@/assets/curso/temas/tema1/img26.png', alt='Imagen decorativa')
       .col-lg-7
         p La contabilidad no se limita a registrar hechos económicos: cumple múltiples funciones de carácter legal, administrativo, financiero y social. 
-        p.mb-4 Las funciones de la contabilidad pueden dividirse en cinco procesos fundamentales: #[b identificación, registro, clasificación, resumen e interpretación.] Cada una de estas funciones está interconectada y da soporte a la gestión de la empresa .
+        p.mb-4 Las funciones de la contabilidad pueden dividirse en cinco procesos fundamentales: #[b identificación, registro, clasificación, resumen e interpretación.] Cada una de estas funciones está interconectada y da soporte a la gestión de la empresa.
         .titulo.mb-4(data-aos="fade-left")
           h5.mb-0 Funciones básicas
         ul.lista-ul--color.mb-5
@@ -594,7 +594,7 @@
           li
             i.fas.fa-hand-point-right
             | Interpretar la información para orientar decisiones.
-    p.mb-4 Además de registrar operaciones, la contabilidad cumple funciones administrativas y sociales. Sirve como herramienta para planificar, dirigir y evaluar los recursos disponibles, ofreciendo una visión clara de la rentabilidad, la liquidez y la solvencia de la organización. Esto fortalece la transparencia y genera confianza frente a terceros. González (2021) resalta que la contabilidad es un instrumento de gestión que optimiza procesos internos y genera valor para los diferentes grupos de interés. En un entorno empresarial cambiante y competitivo, estas funciones hacen de la contabilidad un pilar estratégico para garantizar la sostenibilidad y el éxito de cualquier negocio . 
+    p.mb-4 Además de registrar operaciones, la contabilidad cumple funciones administrativas y sociales. Sirve como herramienta para planificar, dirigir y evaluar los recursos disponibles, ofreciendo una visión clara de la rentabilidad, la liquidez y la solvencia de la organización. Esto fortalece la transparencia y genera confianza frente a terceros. González (2021) resalta que la contabilidad es un instrumento de gestión que optimiza procesos internos y genera valor para los diferentes grupos de interés. En un entorno empresarial cambiante y competitivo, estas funciones hacen de la contabilidad un pilar estratégico para garantizar la sostenibilidad y el éxito de cualquier negocio. 
 
     .row.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
