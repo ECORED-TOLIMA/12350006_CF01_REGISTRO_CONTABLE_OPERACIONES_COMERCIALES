@@ -679,7 +679,7 @@
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3	Estados financieros básicos
-    p.mb-5 Los estados financieros son informes estructurados que presentan en un periodo determinado, la situación y el desempeño de la entidad. Deben elaborarse con criterios de #[b claridad, relevancia, confiabilidad y comparabilidad] (Decreto 2649/1993; marco NIIF) y estar acompañados por notas que revelen políticas contables y detalles necesarios para su adecuada interpretación.
+    p.mb-5 Los estados financieros son informes estructurados que presentan, para un periodo determinado, la situación y el desempeño de la entidad. Deben elaborarse con criterios de #[b claridad, relevancia, confiabilidad y comparabilidad] (Decreto 2649/1993; marco NIIF) y estar acompañados por notas que revelen políticas contables y detalles necesarios para su adecuada interpretación.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
