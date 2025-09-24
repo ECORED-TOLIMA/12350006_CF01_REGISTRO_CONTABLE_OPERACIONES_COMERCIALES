@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="fade-right")
         span 4
-      h1 Comprobantes contables internos
+      h1 Documentos comerciales y comprobantes contables: definición, tipos, características, normativa
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-4(data-aos="zoom-in")
