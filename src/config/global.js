@@ -88,7 +88,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Cuentas y Plan Único de Cuentas (PUC)',
+        titulo: 'Cuentas: tipos, Plan Único de Cuentas (PUC)',
         desarrolloContenidos: true,
         subMenu: [
           {

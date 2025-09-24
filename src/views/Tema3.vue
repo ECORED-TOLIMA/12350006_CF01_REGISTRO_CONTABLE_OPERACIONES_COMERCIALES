@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="fade-right")
         span 3
-      h1 Cuentas: tipos, Plan Único de Cuentas (PUC)   
+      h1 Cuentas: tipos, Plan Único de Cuentas (PUC)
     
     .row.justify-content-center.mb-4
       .col-lg-12(data-aos="zoom-in")
