@@ -414,7 +414,7 @@
               i.fas.fa-hand-point-right
               | Proporciona un lenguaje común para contadores, auditores, revisores fiscales y entidades de control.
           .cajon.color-primario.p-4
-            p.mb-0 Cada cuenta en el PUC está identificada por un código numérico y una denominación específica. El sistema está diseñado de forma jerárquica, lo que permite organizar las operaciones desde un nivel general hasta un nivel muy detallado según lo requiera cada empresa. Se puede usar dos o más columnas para diagramar el texto
+            p.mb-0 Cada cuenta en el PUC está identificada por un código numérico y una denominación específica. El sistema está diseñado de forma jerárquica, lo que permite organizar las operaciones desde un nivel general hasta un nivel muy detallado según lo requiera cada empresa.
     
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -793,27 +793,27 @@
           SlyderF.color-acento-botones(columnas="col-lg-4 col-xl-4")
             .tarjeta.bgblanco3.p-4
               .row.justify-content-center.mb-3
-                .col-4
+                .col-6
                   img(src='@/assets/curso/temas/tema3/img49.svg' alt='Imagen decorativa')
               p.text-center #[b Estandarización] en el registro de las operaciones en todas las empresas.
             .tarjeta.bgblanco3.p-4
               .row.justify-content-center.mb-3
-                .col-4
+                .col-6
                   img(src='@/assets/curso/temas/tema3/img50.svg' alt='Imagen decorativa')
               p.text-center #[b Comparabilidad] de los estados financieros entre distintas organizaciones.
             .tarjeta.bgblanco3.p-4
               .row.justify-content-center.mb-3
-                .col-4
+                .col-6
                   img(src='@/assets/curso/temas/tema3/img51.svg' alt='Imagen decorativa')
               p.text-center #[b Transparencia y] control, al facilitar la labor de los entes de vigilancia y auditoría.
             .tarjeta.bgblanco3.p-4
               .row.justify-content-center.mb-3
-                .col-4
+                .col-6
                   img(src='@/assets/curso/temas/tema3/img47.svg' alt='Imagen decorativa')
               p.text-center #[b Claridad] en la clasificación de las cuentas, evitando errores y confusiones.
             .tarjeta.bgblanco3.p-4
               .row.justify-content-center.mb-3
-                .col-4
+                .col-6
                   img(src='@/assets/curso/temas/tema3/img48.svg' alt='Imagen decorativa')
               p.text-center #[b Cumplimiento normativo], al estar alineado con los decretos que rigen la contabilidad en el país.
 

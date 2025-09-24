@@ -161,7 +161,7 @@
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
               | Los reportes entregados a entes externos coincidan con los registros internos.
-    
+    p Este proceso reduce errores, detecta omisiones y asegura la coherencia de la información contable.
     separador
     #t5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.4 Conciliación contable

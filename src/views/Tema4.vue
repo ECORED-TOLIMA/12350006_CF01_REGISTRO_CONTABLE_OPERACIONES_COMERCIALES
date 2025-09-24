@@ -58,7 +58,7 @@
             p.mb-0 Evalúa el desempeño y la gestión administrativa, con base en los resultados reflejados en los estados financieros.
       .col-lg-4.col-8.mb-4.order-1.order-lg-2(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema4/img2_1.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo.mb-5(data-aos="fade-left")
