@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Política contable: definición, estructura, principios aplicables    
+    
     .row.justify-content-center.align-items-centerr.mb-4
       .col-lg-12(data-aos="zoom-in")
         figure
@@ -16,61 +17,66 @@
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1	Definición de política contable
+    
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         p Las políticas contables son los principios, bases, convenciones, reglas y procedimientos específicos adoptados por una entidad para el reconocimiento, medición, presentación y revelación de sus transacciones económicas y hechos contables.
-        p De acuerdo con el Decreto 2649 de 1993, cada ente económico debe aplicar criterios uniformes para transacciones similares, garantizando consistencia en el tiempo. Cuando la entidad cambia de política contable, debe revelarlo, justificarlo y cuantificar su efecto en los estados financieros.
-
+        p.mb-0 De acuerdo con el Decreto 2649 de 1993, cada ente económico debe aplicar criterios uniformes para transacciones similares, garantizando consistencia en el tiempo. Cuando la entidad cambia de política contable, debe revelarlo, justificarlo y cuantificar su efecto en los estados financieros.
       .col-lg-4.col-8.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imagen decorativa')
+    
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2	Estructura de las políticas contables
     .tarjeta-BG05.px-md-5.px-4
-      p.mb-4 Una política contable generalmente contiene:
-      .row.justify-content-center.align-items-center.mb-5
+      p.mb-5 Una política contable generalmente contiene:
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
           ol.lista-ol--cuadro.lista-ol--separador
-            li 
-              .lista-ol--cuadro__vineta
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 700")
                 span 1
-              | #[b Objetivo y alcance:] explica la finalidad de la política y el tipo de operaciones a las que aplica.
-            li 
-              .lista-ol--cuadro__vineta
+              p.mb-0 #[b Objetivo y alcance:] explica la finalidad de la política y el tipo de operaciones a las que aplica.
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 700")
                 span 2
-              | #[b Criterios de reconocimiento:] define en qué momento se registran los activos, pasivos, ingresos y gastos.
-            li 
-              .lista-ol--cuadro__vineta
+              p.mb-0 #[b Criterios de reconocimiento:] define en qué momento se registran los activos, pasivos, ingresos y gastos.
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 700")
                 span 3
-              | #[b Medición:] establece cómo se valoran las partidas (costo histórico, valor razonable, valor presente, etc.).
-            li 
-              .lista-ol--cuadro__vineta
+              p.mb-0 #[b Medición:] establece cómo se valoran las partidas (costo histórico, valor razonable, valor presente, etc.).
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 700")
                 span 4
-              | #[b Presentación:] indica la forma en que deben mostrarse las partidas en los estados financieros.
-            li 
-              .lista-ol--cuadro__vineta
+              p.mb-0 #[b Presentación:] indica la forma en que deben mostrarse las partidas en los estados financieros.
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 700")
                 span 5
-              | #[b Revelación:] precisa qué información adicional debe incluirse en las notas a los estados financieros.
-            li 
-              .lista-ol--cuadro__vineta
+              p.mb-0 #[b Revelación:] precisa qué información adicional debe incluirse en las notas a los estados financieros.
+            li(data-aos="fade-left") 
+              .lista-ol--cuadro__vineta(style="color: #12263F; font-weight: 700")
                 span 6
-              | #[b Cambios en políticas contables:] describe el procedimiento para modificar una política y la forma de presentar los efectos de dicho cambio.
-      .row.justify-content-center.align-items-center.mb-5
+              p.mb-0 #[b Cambios en políticas contables:] describe el procedimiento para modificar una política y la forma de presentar los efectos de dicho cambio.
+      
+      .row.justify-content-center.mb-4
         .col-lg-10
-          .cajon.color-primario.p-4
+          .cajon.color-primario.p-4(data-aos="fade-left")
             .row.justify-content-center.align-items-center
               .col-lg-2.col-4.mb-4.mb-lg-0
                 figura
                   img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
               .col-10
                 p.mb-0 #[b Ejemplo:] una empresa puede definir en su política que sus inventarios se midan al costo promedio ponderado, y que las propiedades, planta y equipo se registren al costo histórico menos depreciación acumulada.
+    
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3	Principios aplicables en Colombia
-    p.mb-4 El Decreto 2649 de 1993 estableció los principios de contabilidad generalmente aceptados en Colombia (PCGA), muchos de los cuales siguen siendo la base de las NIIF. Entre los más relevantes están:
-    .row.justify-content-center.align-items-center.mb-5    
-      .col-lg-4.col-8.mb-4(data-aos="zoom-in")
+    
+    p.mb-5 El Decreto 2649 de 1993 estableció los principios de contabilidad generalmente aceptados en Colombia (PCGA), muchos de los cuales siguen siendo la base de las NIIF. Entre los más relevantes están:
+    
+    .row.justify-content-center.align-items-center.mb-4  
+      .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema2/img4.png', alt='Imagen decorativa')
       .col-lg-6
@@ -91,25 +97,20 @@
             p.mb-0 Se mantienen criterios contables a lo largo del tiempo.
           div(numero="8" titulo="Revelación plena").p-3
             p.mb-0 Toda información relevante debe ser divulgada.
+    
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.4	Referencia a estándares internacionales
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
-        :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img5.png')})`}"
+        :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img5.png')})`}" data-aos="fade-right"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Para las entidades que aplican NIIF, las políticas contables se definen siguiendo las directrices del IASB. En este marco, se permite mayor flexibilidad en la selección de criterios de medición (por ejemplo, valor razonable para propiedades de inversión) y se exige amplia revelación en las notas.
           br
           br
           | La transición hacia NIIF en Colombia, establecida por la Ley 1314 de 2009 y sus decretos reglamentarios, reforzó la importancia de las políticas contables como instrumento de comparabilidad internacional.
-
-
-
-
-
-
-
 
 
 </template>

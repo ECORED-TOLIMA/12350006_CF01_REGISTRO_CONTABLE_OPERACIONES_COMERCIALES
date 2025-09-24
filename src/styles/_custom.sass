@@ -58,6 +58,17 @@
 
   100%
     transform: scale(1.2)
+  
+.banner-principal
+  .container.tarjeta
+    background-image: url("../assets/curso/portada/fondo-banner-principal.svg")
+    background-size: cover
+    background-position: center
+    @media (max-width: $bp-max-md)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.svg")
+    @media (max-width: $bp-max-xs)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.svg")
+
 .banner-principal p, .banner-principal h1
   color: #000000
 
@@ -251,8 +262,9 @@ i.fas.fa-quote-right, i.fas.fa-quote-left
   background-repeat: no-repeat
   background-position: center
   margin-inline: -3rem !important
-  @media (max-width: $bp-max-sm)
+  @media (max-width: $bp-max-md)
     margin-inline: -1.5rem !important
+    background-image: url("../assets/curso/temas/tema1/imgfondoslyder_2_md.svg")
   figure
     z-index: -1 !important
 
@@ -277,6 +289,7 @@ i.fas.fa-quote-right, i.fas.fa-quote-left
   margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+
 .tarjeta.bgblanco3
   background-color: white
   padding: 1rem
@@ -492,3 +505,6 @@ i.fas.fa-quote-right
   @media (max-width: 1000px)
     display: none
 ///// utilidades --------------------------------------
+
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex

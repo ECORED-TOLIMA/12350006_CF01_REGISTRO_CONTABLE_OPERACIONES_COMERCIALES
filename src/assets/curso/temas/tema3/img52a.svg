@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="368" viewBox="0 0 400 368">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_403947" data-name="Rectángulo 403947" width="77.47" height="77.287" fill="#225a78"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_403946" data-name="Rectángulo 403946" width="90.694" height="55.465" fill="#00513f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1101736" data-name="Grupo 1101736" transform="translate(1985 2723)">
+    <g id="Grupo_1101723" data-name="Grupo 1101723">
+      <rect id="Rectángulo_403925" data-name="Rectángulo 403925" width="400" height="368" transform="translate(-1985 -2723)" fill="#d8eaf4"/>
+      <rect id="Rectángulo_404298" data-name="Rectángulo 404298" width="184" height="239" transform="translate(-1969 -2623)" fill="#88c0de"/>
+      <rect id="Rectángulo_404300" data-name="Rectángulo 404300" width="184" height="239" transform="translate(-1785 -2623)" fill="#00d1a1"/>
+      <text id="Lado_débito_Movimientos:_débitos_Saldo:_débitos" data-name="Lado débito
+Movimientos: débitos
+Saldo: débitos" transform="translate(-1960 -2499.221)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="37.174" y="15">Lado débito</tspan><tspan x="2.021" y="39">Movimientos: </tspan><tspan y="39" font-family="Roboto-Regular, Roboto" font-weight="400">débitos</tspan><tspan x="28.373" y="63">Saldo: </tspan><tspan y="63" font-family="Roboto-Regular, Roboto" font-weight="400">débitos</tspan></text>
+      <text id="Lado_crédito_Débitos_Crédito_Crédito" data-name="Lado crédito
+Débitos
+Crédito
+Crédito" transform="translate(-1765 -2499.221)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="29.662" y="15">Lado crédito</tspan><tspan x="47.014" y="39">Débitos</tspan><tspan x="48.244" y="63">Crédito</tspan><tspan x="48.244" y="87">Crédito</tspan></text>
+      <path id="Trazado_875937" data-name="Trazado 875937" d="M11,0H277a11,11,0,0,1,11,11V26a11,11,0,0,1-11,11H11A11,11,0,0,1,0,26V11A11,11,0,0,1,11,0Z" transform="translate(-1929 -2694)" fill="#d7ca51"/>
+      <text id="Código_y_concepto_de_cuenta" data-name="Código y concepto de cuenta" transform="translate(-1898 -2685)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="16">Código y concepto de cuenta</tspan></text>
+      <path id="Trazado_876612" data-name="Trazado 876612" d="M15-4936.668v362.08" transform="translate(2970.168 -2608.2) rotate(-90)" fill="none" stroke="#225a78" stroke-linecap="round" stroke-width="10"/>
+      <path id="Trazado_876613" data-name="Trazado 876613" d="M0,0V236.78" transform="translate(-1784.5 -2623.2)" fill="none" stroke="#225a78" stroke-linecap="round" stroke-width="10"/>
+      <g id="Grupo_1101721" data-name="Grupo 1101721" transform="translate(-1915.735 -2600.663)">
+        <g id="Grupo_1101396" data-name="Grupo 1101396" clip-path="url(#clip-path)">
+          <path id="Trazado_875957" data-name="Trazado 875957" d="M73.357,63.811c.622.722.529,5.089.45,6.232-.269,3.884-2.515,6.767-6.5,7.213l-60.447.03A7.1,7.1,0,0,1,0,70.428V27.916c.7-7.671,7.666-6.866,13.476-7L48.689.495C52.46-.88,55.41.721,57.461,3.888c3.569,5.51,6.3,11.992,10.1,17.329,6.055.705,6.9,7.056,6.22,12.1a1.808,1.808,0,0,1-1.672,1.806c-5.19.863-11.594-.971-16.848.73-11.417,3.7-12.966,19.544-2.545,25.517,5.787,3.316,12.806,1.1,19.054,1.809a3.251,3.251,0,0,1,1.586.634M20.29,21.065h6.858L54.095,5.415A3.3,3.3,0,0,0,49.45,3.96Zm42.885,0-3.786-6.552L48.107,21.065Z" transform="translate(0 0)" fill="#225a78"/>
+          <path id="Trazado_875958" data-name="Trazado 875958" d="M263.993,199.122a90.66,90.66,0,0,1,14.027-.033A5.387,5.387,0,0,1,282.772,204a79.791,79.791,0,0,1,.009,11.016,5.4,5.4,0,0,1-4.546,5.113c-7.824-.674-18.947,2.841-22.733-6.437a10.57,10.57,0,0,1,8.492-14.566m-1.242,13.015a3.513,3.513,0,0,0,5.79-3.568c-.792-3.038-5.333-3.222-6.536-.423a3.619,3.619,0,0,0,.746,3.991" transform="translate(-205.497 -160.424)" fill="#225a78"/>
+        </g>
+      </g>
+      <g id="Grupo_1101722" data-name="Grupo 1101722" transform="translate(-1735.962 -2578.841)">
+        <g id="Grupo_1101394" data-name="Grupo 1101394" clip-path="url(#clip-path-2)">
+          <path id="Trazado_875954" data-name="Trazado 875954" d="M80.059.065,142.214,0a6.192,6.192,0,0,1,5.7,5.483c-.714,10.989.945,23.174.007,34.022a6.064,6.064,0,0,1-5.473,5.709H80.459A6.077,6.077,0,0,1,75,39.726l0-34.244A6.242,6.242,0,0,1,80.059.065m4.652,8.846a1.392,1.392,0,0,0-.877,1.22A59.95,59.95,0,0,0,83.843,19c.076.646.256,1.192.923,1.407a63.809,63.809,0,0,0,8.988.108,1.8,1.8,0,0,0,1.638-1.158,61.9,61.9,0,0,0,.109-8.986c-.119-1.022-.483-1.394-1.514-1.514-2.845-.331-6.356.213-9.274.054m.234,20.268a1.521,1.521,0,0,0,0,2.929,50.389,50.389,0,0,0,7.624.036,1.5,1.5,0,0,0,.2-2.965,51.646,51.646,0,0,0-7.821,0m16.074,0a1.5,1.5,0,0,0,0,2.929,48.706,48.706,0,0,0,7.623.035,1.516,1.516,0,0,0,.2-2.964,51.555,51.555,0,0,0-7.821,0m14.442,0a1.517,1.517,0,0,0,.431,2.967,45.484,45.484,0,0,0,7.195,0,1.5,1.5,0,0,0,0-3,57.308,57.308,0,0,0-7.626.034m14.679,0a1.5,1.5,0,0,0,0,2.929,48.706,48.706,0,0,0,7.623.035,1.516,1.516,0,0,0,.2-2.964,51.555,51.555,0,0,0-7.821,0" transform="translate(-57.522 0.001)" fill="#00513f"/>
+          <path id="Trazado_875955" data-name="Trazado 875955" d="M14.677,113.042V127.6c0,2.831,4.259,6.864,7.125,7.086l50.734.052c.883.29.147,3.032-.137,3.758a6.1,6.1,0,0,1-5.179,3.674l-61.746-.008a6.544,6.544,0,0,1-4.5-2.718A19.055,19.055,0,0,1,0,137.154V113.042Z" transform="translate(0 -86.707)" fill="#00513f"/>
+          <path id="Trazado_875956" data-name="Trazado 875956" d="M14.677,44.042v10.25H0V49.051c0-1.747,3.022-5.009,4.776-5.009Z" transform="translate(0 -33.782)" fill="#00513f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
