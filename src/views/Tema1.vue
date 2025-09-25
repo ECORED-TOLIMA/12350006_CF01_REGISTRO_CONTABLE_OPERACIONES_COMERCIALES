@@ -342,7 +342,7 @@
           tr(data-aos="fade-left")
             td Sociedad en Comandita por Acciones
             td.
-              Similar a la comandita simple, pero con capital dividido en acciones. Requiere al menos un socio gestor y cinco
+              Similar a la Comandita Simple, pero con capital dividido en acciones. Requiere al menos un socio gestor y cinco
               comanditarios. Los socios gestores tienen responsabilidad ilimitada; los comanditarios responden hasta el aporte.
           tr(data-aos="fade-left")
             td Sociedad de Economía Mixta
