@@ -67,13 +67,13 @@
                 figura
                   img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
               .col-10
-                p.mb-0 #[b Ejemplo:] una empresa puede definir en su política que sus inventarios se midan al costo promedio ponderado, y que las propiedades, planta y equipo se registren al costo histórico menos depreciación acumulada.
+                p.mb-0 #[b Ejemplo:] una empresa puede definir en su política que sus #[b inventarios] se midan al costo promedio ponderado, y que las @[b propiedades, planta y equipo] se registren al costo histórico menos depreciación acumulada.
     
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3	Principios aplicables en Colombia
     
-    p.mb-5 El Decreto 2649 de 1993 estableció los principios de contabilidad generalmente aceptados en Colombia (PCGA), muchos de los cuales siguen siendo la base de las NIIF. Entre los más relevantes están:
+    p.mb-5 El Decreto 2649 de 1993 estableció los @[b principios de contabilidad generalmente aceptados en Colombia (PCGA)], muchos de los cuales siguen siendo la base de las NIIF. Entre los más relevantes están:
     
     .row.justify-content-center.align-items-center.mb-4  
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
@@ -107,7 +107,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img5.png')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Para las entidades que aplican NIIF, las políticas contables se definen siguiendo las directrices del IASB. En este marco, se permite mayor flexibilidad en la selección de criterios de medición (por ejemplo, valor razonable para propiedades de inversión) y se exige amplia revelación en las notas.
+        p.mb-0 Para las entidades que aplican #[b NIIF], las políticas contables se definen siguiendo las directrices del IASB. En este marco, se permite mayor flexibilidad en la selección de criterios de medición (por ejemplo, valor razonable para propiedades de inversión) y se exige amplia revelación en las notas.
           br
           br
           | La transición hacia NIIF en Colombia, establecida por la Ley 1314 de 2009 y sus decretos reglamentarios, reforzó la importancia de las políticas contables como instrumento de comparabilidad internacional.

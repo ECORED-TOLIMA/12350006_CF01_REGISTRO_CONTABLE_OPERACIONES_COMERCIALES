@@ -91,7 +91,7 @@
                 span 5
               | El registro en los libros auxiliares, y posteriormente en el diario y el mayor, para mantener la trazabilidad de cada transacción.
     
-    p Este proceso es crucial porque garantiza la transparencia y la trazabilidad: cada asiento contable debe poder comprobarse con un documento de soporte.
+    p Este proceso es crucial porque #[b garantiza la transparencia y la trazabilidad]: cada asiento contable debe poder comprobarse con un documento de soporte.
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

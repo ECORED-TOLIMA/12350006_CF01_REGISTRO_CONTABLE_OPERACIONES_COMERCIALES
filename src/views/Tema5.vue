@@ -18,7 +18,7 @@
           img(src='@/assets/curso/temas/tema5/img2.svg', alt='Imagen decorativa')
       .col-lg-10(data-aos="fade-left")
         p Los registros contables constituyen la evidencia formal del ciclo contable, pues a través de ellos se deja constancia escrita, sistemática y ordenada de todas las operaciones económicas que realiza una organización. No son solo una obligación legal, sino también una herramienta para garantizar la transparencia, la trazabilidad y la confiabilidad de la información financiera.
-        p.mb-0 De acuerdo con el Decreto 2649 de 1993 y el Código de Comercio, los registros deben elaborarse en libros autorizados, físicos o electrónicos, cumpliendo requisitos de forma, oportunidad y veracidad.
+        p.mb-0 De acuerdo con el #[b Decreto 2649 de 1993] y el #[b Código de Comercio], los registros deben elaborarse en libros autorizados, físicos o electrónicos, cumpliendo requisitos de forma, oportunidad y veracidad.
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
@@ -166,7 +166,8 @@
     #t5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.4 Conciliación contable
     
-    p.mb-5 La conciliación es el procedimiento mediante el cual se comparan y ajustan los registros contables con fuentes externas, con el fin de garantizar su exactitud. La más común es la conciliación bancaria, que confronta el saldo contable de caja y bancos con los extractos emitidos por la entidad financiera.
+    p La conciliación es el procedimiento mediante el cual se comparan y ajustan los registros contables con fuentes externas, con el fin de garantizar su exactitud. La más común es la conciliación bancaria, que confronta el saldo contable de caja y bancos con los extractos emitidos por la entidad financiera.
+    p.mb-5 A continuación, se presentan los diferentes tipos de conciliación que se aplican según la naturaleza de las cuentas y operaciones.
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Tipos de conciliación

@@ -18,7 +18,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.1	 La cuenta contable
     
-    p La cuenta contable es el registro donde se acumulan, de manera ordenada y sistemática, todas las operaciones de ingreso y egreso que afectan a una organización. Cada operación comercial debe asociarse a una cuenta específica, en el debe (débito) o en el haber (crédito), lo que permite determinar en todo momento su saldo.
+    p La #[b cuenta contable] es el registro donde se acumulan, de manera ordenada y sistemática, todas las operaciones de ingreso y egreso que afectan a una organización. Cada operación comercial debe asociarse a una cuenta específica, en el #[b debe (débito]) o en el #[b haber (crédito)], lo que permite determinar en todo momento su saldo.
     p.mb-5 Según Fierro (2011), las cuentas contables se agrupan en diferentes categorías, que reflejan la naturaleza de los bienes, derechos, obligaciones y resultados de la empresa.
     
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
@@ -81,7 +81,7 @@
     #t3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2	Clasificación de las cuentas
     
-    p.mb-5 De acuerdo con Fierro (2011), las cuentas pueden clasificarse según dos criterios: su naturaleza y el estado financiero en el que se presentan.
+    p.mb-5 De acuerdo con Fierro (2011), las cuentas pueden clasificarse según dos criterios: #[b su naturaleza] y el #[b estado financiero] en el que se presentan.
     
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -390,7 +390,7 @@
     #t3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.5 Objetivo y estructura del Plan Único de Cuentas (PUC)
     
-    p.mb-5 El Plan Único de Cuentas (PUC) es una herramienta fundamental en la contabilidad colombiana, establecida mediante el Decreto 2650 de 1993, como un modelo estandarizado para organizar y codificar las cuentas de todas las empresas. Su propósito es asegurar uniformidad en los registros contables, facilitar la preparación de estados financieros comparables y garantizar el cumplimiento de las disposiciones legales.
+    p.mb-5 El #[b Plan Único de Cuentas (PUC)] es una herramienta fundamental en la contabilidad colombiana, establecida mediante el #[b Decreto 2650 de 1993], como un modelo estandarizado para organizar y codificar las cuentas de todas las empresas. Su propósito es asegurar uniformidad en los registros contables, facilitar la preparación de estados financieros comparables y garantizar el cumplimiento de las disposiciones legales.
     
     .tarjeta-BG05.px-md-5.px-4
       .row.justify-content-center.align-items-center.mb-5
@@ -403,16 +403,16 @@
           ul.lista-ul--color.mb-5
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Garantiza la uniformidad en la presentación de la información contable.
+              p.mb-0 Garantiza la #[b uniformidad] en la presentación de la información contable.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Facilita el control y la fiscalización por parte de la DIAN y demás entes de vigilancia.
+              p.mb-0 Facilita el #[b control y la fiscalización] por parte de la DIAN y demás entes de vigilancia.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Permite la comparabilidad entre los estados financieros de diferentes organizaciones.
+              p.mb-0 Permite la #[b comparabilidad] entre los estados financieros de diferentes organizaciones.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Proporciona un lenguaje común para contadores, auditores, revisores fiscales y entidades de control.
+              p.mb-0 Proporciona un #[b lenguaje común] para contadores, auditores, revisores fiscales y entidades de control.
           .cajon.color-primario.p-4
             p.mb-0 Cada cuenta en el PUC está identificada por un código numérico y una denominación específica. El sistema está diseñado de forma jerárquica, lo que permite organizar las operaciones desde un nivel general hasta un nivel muy detallado según lo requiera cada empresa.
     

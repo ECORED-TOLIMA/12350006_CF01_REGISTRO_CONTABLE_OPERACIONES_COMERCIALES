@@ -697,52 +697,52 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.3	Estados financieros básicos
     
-    p.mb-5 Los estados financieros son informes estructurados que presentan, para un periodo determinado, la situación y el desempeño de la entidad. Deben elaborarse con criterios de #[b claridad, relevancia, confiabilidad y comparabilidad] (Decreto 2649/1993; marco NIIF) y estar acompañados por notas que revelen políticas contables y detalles necesarios para su adecuada interpretación.
+    p.mb-5 Los estados financieros son informes estructurados que presentan, para un periodo determinado, la situación y el desempeño de la entidad. Deben elaborarse con criterios de #[b claridad, relevancia, confiabilidad y comparabilidad] (Decreto 2649/1993; marco NIIF) y estar acompañados por #[b notas] que revelen políticas contables y detalles necesarios para su adecuada interpretación.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Balance general (o Estado de situación financiera)")
-            .col-lg-5.order-lg-1.order-2
-              p Muestra, en una fecha de corte, los activos (recursos controlados), pasivos (obligaciones) y patrimonio (residuo entre activos y pasivos). Permite evaluar liquidez, solvencia y estructura financiera.
+            .col-lg-6.order-lg-1.order-2
+              p Muestra, en una fecha de corte, los #[b activos] (recursos controlados), #[b pasivos] (obligaciones) y #[b patrimonio] (residuo entre activos y pasivos). Permite evaluar liquidez, solvencia y estructura financiera.
               p.mb-0 Componentes usuales: efectivo y equivalentes, cuentas por cobrar, inventarios, propiedades, planta y equipo (y su depreciación), cuentas por pagar, obligaciones financieras, provisiones y patrimonio (capital, reservas, resultados).
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img40.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de resultados (o de resultados integrales)")
-            .col-lg-5.order-lg-1.order-2
-              p Informa, para el periodo, ingresos, costos y gastos, determinando la utilidad o pérdida. Sirve para analizar rentabilidad, márgenes y eficiencia operativa.
+            .col-lg-6.order-lg-1.order-2
+              p Informa, para el periodo, #[b ingresos], #[b costos] y #[b gastos], determinando la utilidad o pérdida. Sirve para analizar rentabilidad, márgenes y eficiencia operativa.
               p.mb-0 Incluye ingresos operacionales y no operacionales, costos de ventas o de prestación del servicio, gastos de administración, ventas y financieros, e impuestos.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img41.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de cambios en el patrimonio")
-            .col-lg-5.order-lg-1.order-2
-              p.mb-0 Explica las variaciones de cada rubro patrimonial entre el inicio y el cierre del periodo: aportes, reservas, resultados acumulados, resultado del ejercicio, distribuciones y otros movimientos. Conecta el resultado del periodo con el patrimonio y evidencia decisiones como capitalizaciones o dividendos.
+            .col-lg-6.order-lg-1.order-2
+              p.mb-0 Explica las variaciones de cada rubro patrimonial entre el inicio y el cierre del periodo: #[b aportes], #[b reservas], #[b resultados acumulados], ·[b resultado del ejercicio], distribuciones y otros movimientos. Conecta el resultado del periodo con el patrimonio y evidencia decisiones como capitalizaciones o dividendos.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img42.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de flujos de efectivo")
-            .col-lg-5.order-lg-1.order-2
-              p Presenta entradas y salidas de efectivo y equivalentes, clasificadas en operación, inversión y financiación. Permite evaluar la capacidad de generar efectivo, cumplir obligaciones y financiar crecimiento.
-              p.mb-0 Métodos: directo (cobros y pagos brutos) o indirecto (conciliando utilidad con flujo operativo).
+            .col-lg-6.order-lg-1.order-2
+              p Presenta entradas y salidas de efectivo y equivalentes, clasificadas en #[b operación], #[b inversión] y #[b financiación]. Permite evaluar la capacidad de generar efectivo, cumplir obligaciones y financiar crecimiento.
+              p.mb-0 Métodos: #[b directo] (cobros y pagos brutos) o #[b indirecto] (conciliando utilidad con flujo operativo).
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img43.png', alt='Texto que describa la imagen')
           .row(titulo="Notas a los estados financieros")
-            .col-lg-5.order-lg-1.order-2
-              p.mb-0 Revelan políticas contables aplicadas, estimaciones, juicios significativos, desgloses por rubro, contingencias y hechos posteriores. Son parte integral de los estados y dan contexto para su lectura.
+            .col-lg-6.order-lg-1.order-2
+              p.mb-0 Revelan #[b políticas contables] aplicadas, estimaciones, juicios significativos, desgloses por rubro, contingencias y hechos posteriores. Son parte integral de los estados y dan contexto para su lectura.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img44.png', alt='Texto que describa la imagen')
           .row(titulo="Relación entre los estados")
-            .col-lg-5.order-lg-1.order-2
-              p.mb-0 El estado de resultados genera la utilidad neta, que se incorpora al estado de cambios en el patrimonio; este, a su vez, explica las variaciones presentadas en el balance general. El estado de flujos de efectivo concilia la utilidad con el efectivo generado o usado, mostrando la “realidad de caja” del periodo.
+            .col-lg-6.order-lg-1.order-2
+              p.mb-0 El #[b estado de resultados] genera la utilidad neta, que se incorpora al #[b estado de cambios en el patrimonio]; este, a su vez, explica las variaciones presentadas en el #[b balance general]. El #[b estado de flujos de efectivo] concilia la utilidad con el efectivo generado o usado, mostrando la “realidad de caja” del periodo.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img45.png', alt='Texto que describa la imagen')
           .row(titulo="Buenas prácticas de presentación")
-            .col-lg-5.order-lg-1.order-2
+            .col-lg-6.order-lg-1.order-2
               p.mb-0 Incluir comparativos entre periodos, mantener la consistencia en las políticas contables aplicadas, garantizar cortes oportunos de la información y realizar conciliaciones periódicas. Asimismo, es fundamental presentar revelaciones claras y completas en las notas a los estados financieros, de manera que se asegure la transparencia, la trazabilidad y la adecuada interpretación de la información.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
