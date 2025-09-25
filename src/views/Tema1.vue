@@ -335,7 +335,7 @@
               Creada por la Ley 1258 de 2008. Puede constituirse con un solo socio natural o jurídico. Se constituye
               mediante documento privado inscrito en Cámara de Comercio. Alta flexibilidad y rapidez de constitución.
           tr(data-aos="fade-left")
-            td Sociedad en Comandita simple
+            td Sociedad en Comandita Simple
             td.
               Formada por socios gestores (responsabilidad ilimitada) y socios comanditarios (responsabilidad limitada al aporte).
               Se define la duración y administración en escritura pública.
@@ -421,7 +421,6 @@
           br
           br
           | González (2021) resalta que la colaboración público-privada permite aprovechar recursos estatales y experiencia privada, generando beneficios compartidos.
-    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")

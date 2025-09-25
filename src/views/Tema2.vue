@@ -67,7 +67,7 @@
                 figura
                   img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
               .col-10
-                p.mb-0 #[b Ejemplo:] una empresa puede definir en su política que sus #[b inventarios] se midan al costo promedio ponderado, y que las @[b propiedades, planta y equipo] se registren al costo histórico menos depreciación acumulada.
+                p.mb-0 #[b Ejemplo:] una empresa puede definir en su política que sus #[b inventarios] se midan al costo promedio ponderado, y que las #[b propiedades, planta y equipo] se registren al costo histórico menos depreciación acumulada.
     
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

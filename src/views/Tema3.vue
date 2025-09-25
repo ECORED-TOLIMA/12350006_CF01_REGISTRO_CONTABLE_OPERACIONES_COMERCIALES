@@ -324,13 +324,13 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-circle
-                    |  #[b Activos:] aumentan con débitos y disminuyen con créditos.
+                    p.mb-0  #[b Activos:] aumentan con débitos y disminuyen con créditos.
                   li
                     i.fas.fa-circle
-                    |  #[b Gastos:] aumentan con débitos y disminuyen con créditos.
+                    p.mb-0  #[b Gastos:] aumentan con débitos y disminuyen con créditos.
                   li
                     i.fas.fa-circle
-                    |  #[b Costos:] aumentan con débitos y disminuyen con créditos.   
+                    p.mb-0  #[b Costos:] aumentan con débitos y disminuyen con créditos.   
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/img21.png', alt="Imagen decorativa")
@@ -342,13 +342,13 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-circle
-                    |  #[b Pasivos:] aumentan con créditos y disminuyen con débitos.
+                    p.mb-0  #[b Pasivos:] aumentan con créditos y disminuyen con débitos.
                   li
                     i.fas.fa-circle
-                    |  #[b Patrimonio:] aumenta con créditos y disminuye con débitos.
+                    p.mb-0  #[b Patrimonio:] aumenta con créditos y disminuye con débitos.
                   li
                     i.fas.fa-circle
-                    |  #[b Ingresos:] aumentan con créditos y disminuyen con débitos.
+                    p.mb-0  #[b Ingresos:] aumentan con créditos y disminuyen con débitos.
                   
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
