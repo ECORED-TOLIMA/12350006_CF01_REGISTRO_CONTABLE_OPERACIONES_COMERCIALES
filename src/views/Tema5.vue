@@ -166,7 +166,7 @@
     #t5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.4 Conciliación contable
     
-    p La conciliación es el procedimiento mediante el cual se comparan y ajustan los registros contables con fuentes externas, con el fin de garantizar su exactitud. La más común es la conciliación bancaria, que confronta el saldo contable de caja y bancos con los extractos emitidos por la entidad financiera.
+    p La conciliación es el procedimiento mediante el cual se comparan y ajustan los registros contables con fuentes externas, con el fin de garantizar su exactitud. La más común es la #[b conciliación bancaria], que confronta el saldo contable de caja y bancos con los extractos emitidos por la entidad financiera.
     p.mb-5 A continuación, se presentan los diferentes tipos de conciliación que se aplican según la naturaleza de las cuentas y operaciones.
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')

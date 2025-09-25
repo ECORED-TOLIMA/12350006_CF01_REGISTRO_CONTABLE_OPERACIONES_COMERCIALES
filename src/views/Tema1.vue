@@ -65,7 +65,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
       .col-lg-6
-        p En el ámbito actual, caracterizado por mercados globalizados y competitivos, la información financiera se ha convertido en un lenguaje universal de los negocios, que facilita la comparación entre organizaciones y países. Normas como las NIIF refuerzan la necesidad de uniformidad y transparencia, ampliando el acceso a capital y oportunidades de financiamiento.
+        p En el ámbito actual, caracterizado por mercados globalizados y competitivos, la información financiera se ha convertido en un #[b lenguaje universal de los negocios], que facilita la comparación entre organizaciones y países. Normas como las #[b NIIF] refuerzan la necesidad de uniformidad y transparencia, ampliando el acceso a capital y oportunidades de financiamiento.
         p En síntesis, la información financiera es esencial porque:
         ul.lista-ul--color
           li(data-aos="fade-left")
@@ -717,7 +717,7 @@
                 img(src='@/assets/curso/temas/tema1/img41.png', alt='Texto que describa la imagen')
           .row(titulo="Estado de cambios en el patrimonio")
             .col-lg-6.order-lg-1.order-2
-              p.mb-0 Explica las variaciones de cada rubro patrimonial entre el inicio y el cierre del periodo: #[b aportes], #[b reservas], #[b resultados acumulados], ·[b resultado del ejercicio], distribuciones y otros movimientos. Conecta el resultado del periodo con el patrimonio y evidencia decisiones como capitalizaciones o dividendos.
+              p.mb-0 Explica las variaciones de cada rubro patrimonial entre el inicio y el cierre del periodo: #[b aportes], #[b reservas], #[b resultados acumulados], #[b resultado del ejercicio], distribuciones y otros movimientos. Conecta el resultado del periodo con el patrimonio y evidencia decisiones como capitalizaciones o dividendos.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema1/img42.png', alt='Texto que describa la imagen')

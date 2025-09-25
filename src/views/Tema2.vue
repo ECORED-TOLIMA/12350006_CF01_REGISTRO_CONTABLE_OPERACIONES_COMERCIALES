@@ -73,7 +73,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3	Principios aplicables en Colombia
     
-    p.mb-5 El Decreto 2649 de 1993 estableció los @[b principios de contabilidad generalmente aceptados en Colombia (PCGA)], muchos de los cuales siguen siendo la base de las NIIF. Entre los más relevantes están:
+    p.mb-5 El Decreto 2649 de 1993 estableció los #[b principios de contabilidad generalmente aceptados en Colombia (PCGA)], muchos de los cuales siguen siendo la base de las NIIF. Entre los más relevantes están:
     
     .row.justify-content-center.align-items-center.mb-4  
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
