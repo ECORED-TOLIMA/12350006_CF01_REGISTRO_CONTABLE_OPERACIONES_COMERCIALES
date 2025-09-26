@@ -236,26 +236,26 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          .row(titulo="A.	Compra de mercancías en efectivo por $1.000.000")
+          .row(titulo="A.	Compra de mercancías en efectivo por $ 1.000.000")
             .col-lg-5.col-12
-              p - Débito: Inventarios $1.000.000 (aumenta el activo).
-              p - Crédito: Caja $1.000.000 (disminuye el activo).
+              p - Débito: Inventarios $ 1.000.000 (aumenta el activo).
+              p - Crédito: Caja $ 1.000.000 (disminuye el activo).
               p.mb-0 En esta transacción, el total de activos no varía, ya que disminuye el efectivo, pero aumenta el inventario en la misma proporción.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/img15.png', alt='Texto que describa la imagen')
-          .row(titulo="B.	Adquisición de mobiliario a crédito por $5.000.000")
+          .row(titulo="B.	Adquisición de mobiliario a crédito por $ 5.000.000")
             .col-lg-5.col-12
-              p - Débito: Muebles y enseres $5.000.000 (aumenta el activo).
-              p - Crédito: Proveedores $5.000.000 (aumenta el pasivo).
+              p - Débito: Muebles y enseres $ 5.000.000 (aumenta el activo).
+              p - Crédito: Proveedores $ 5.000.000 (aumenta el pasivo).
               p.mb-0 Aunque no hay salida inmediata de efectivo, se incrementa un activo (el mobiliario) y, al mismo tiempo, surge una obligación con terceros, manteniendo equilibrado el patrimonio.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/img16.png', alt='Texto que describa la imagen')
-          .row(titulo="C.	Ingreso por prestación de servicios en efectivo por $2.000.000")
+          .row(titulo="C.	Ingreso por prestación de servicios en efectivo por $ 2.000.000")
             .col-lg-5.col-12
-              p - Débito: Caja $2.000.000 (aumenta el activo).
-              p - Crédito: Ingresos por servicios $2.000.000 (aumenta el patrimonio).
+              p - Débito: Caja $ 2.000.000 (aumenta el activo).
+              p - Crédito: Ingresos por servicios $ 2.000.000 (aumenta el patrimonio).
               p.mb-0 Este caso muestra cómo la partida doble no solo asegura el equilibrio del balance contable, sino que también refleja el resultado económico, al incrementar tanto el activo como el patrimonio de la empresa.
             .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
               figure
