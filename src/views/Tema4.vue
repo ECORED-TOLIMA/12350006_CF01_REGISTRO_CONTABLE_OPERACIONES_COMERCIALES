@@ -100,7 +100,7 @@
     p.mb-5 Los documentos comerciales son aquellos que sustentan las operaciones mercantiles de la empresa. Algunos de los más relevantes son:
     
     .titulo-sexto.color-acento-contenido.offset-0
-      h5 Tabla 9.
+      h5 Tabla 8.
       i Soportes contables externos
     
     .row.justify-content-center.align-items-center.mb-5
@@ -201,7 +201,7 @@
           img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imagen decorativa')
     
     .titulo-sexto.color-acento-contenido.offset-0
-      h5 Tabla 10.
+      h5 Tabla 9.
       i Normativa aplicable a documentos comerciales y comprobantes contables en Colombia
     
     .row.justify-content-center.align-items-center.mb-4

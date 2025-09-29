@@ -186,7 +186,7 @@ export default {
         {
           id: 12,
           texto:
-            'La partida doble establece que por cada débito debe existir un crédito del mismo valor.',
+            'El estado de resultados muestra los ingresos, costos y gastos de un periodo determinado.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -201,12 +201,12 @@ export default {
         {
           id: 13,
           texto:
-            'En una cuenta T, el lado izquierdo corresponde al crédito y el lado derecho al débito.',
+            'Las políticas contables establecen, entre otros aspectos, criterios de reconocimiento, medición, presentación y revelación de las transacciones económicas en la entidad.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un adecuado dominio de los conceptos clave sobre la importancia de la contabilidad, la clasificación de las empresas, el desarrollo del ciclo contable y la aplicación del Plan Único de Cuentas como herramienta normativa en Colombia.',

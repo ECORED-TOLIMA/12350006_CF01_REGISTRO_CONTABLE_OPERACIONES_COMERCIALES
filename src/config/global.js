@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos contables y clasificación documental',
     descripcionCurso:
-      'Este componente formativo aborda la información financiera y las políticas contables como base de la gestión organizacional. Desarrolla el estudio de las cuentas, la partida doble, la cuenta T y el Plan Único de Cuentas (PUC). Además, incluye documentos comerciales, comprobantes y registros contables, integrando normativa, revisión cruzada y conciliación para asegurar información clara y confiable.',
+      'Este componente formativo aborda la información financiera y las políticas contables como base de la gestión organizacional. Desarrolla el estudio de las cuentas y el Plan Único de Cuentas (PUC). Además, incluye documentos comerciales, comprobantes y registros contables, integrando normativa, revisión cruzada y conciliación para asegurar información clara y confiable.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -103,18 +103,8 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Método de la partida doble',
-            hash: 't_3_3',
-          },
-          {
-            numero: '3.4',
-            titulo: 'Método de la cuenta T',
-            hash: 't_3_4',
-          },
-          {
-            numero: '3.5',
             titulo: 'Objetivo y estructura del Plan Único de Cuentas (PUC)',
-            hash: 't_3_5',
+            hash: 't_3_3',
           },
         ],
       },
@@ -261,11 +251,6 @@ export default {
         'organización sistemática de los documentos según su tipo, origen y finalidad para facilitar su manejo y control.',
     },
     {
-      termino: 'Cuenta T',
-      significado:
-        'herramienta gráfica que representa el débito y crédito de una cuenta para facilitar su análisis.',
-    },
-    {
       termino: 'Ciclo contable',
       significado:
         'proceso completo de registro, clasificación, resumen e interpretación de las operaciones financieras durante un período.',
@@ -294,11 +279,6 @@ export default {
       termino: 'Inventarios',
       significado:
         'conjunto de bienes disponibles para la venta o producción dentro de una empresa.',
-    },
-    {
-      termino: 'Partida doble',
-      significado:
-        'principio contable que establece que toda transacción afecta al menos dos cuentas, manteniendo el equilibrio contable.',
     },
     {
       termino: 'Patrimonio',

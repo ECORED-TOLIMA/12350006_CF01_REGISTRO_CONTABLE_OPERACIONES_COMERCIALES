@@ -186,209 +186,7 @@
 
     separador
     #t3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.3	 Método de la partida doble 
-    
-    p.mb-5 El método de la partida doble es la base de la contabilidad moderna. Establece que cada transacción afecta al menos dos cuentas: una que se debita y otra que se acredita por el mismo valor. Esto garantiza que la ecuación contable siempre se mantenga en equilibrio: #[b Activo = Pasivo + Patrimonio.]
-    
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
-        h5 Tabla 6.
-        i Dinámica de las cuentas
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        .tabla-a.color-acento-contenido
-          table
-            thead
-              tr(data-aos="fade-left")
-                th Tipo de cuenta
-                th Aumenta con
-                th Disminuye con
-                th Saldo normal
-            tbody
-              tr(data-aos="fade-left")
-                td Activos
-                td Débito
-                td Crédito
-                td Deudor
-              tr(data-aos="fade-left")
-                td Pasivos
-                td Crédito
-                td Débito
-                td Acreedor
-              tr(data-aos="fade-left")
-                td Patrimonio
-                td Crédito
-                td Débito
-                td Acreedor
-              tr(data-aos="fade-left")
-                td Ingresos
-                td Crédito
-                td Débito
-                td Acreedor
-              tr(data-aos="fade-left")
-                td Gastos y costos
-                td Débito
-                td Crédito
-                td Deudor
-    
-    .titulo.mb-4(data-aos="fade-left")
-      h5.mb-0 Ejemplo de aplicación de la partida doble
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="fade-left")
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          .row(titulo="A.	Compra de mercancías en efectivo por $ 1.000.000")
-            .col-lg-5.col-12
-              p - Débito: Inventarios $ 1.000.000 (aumenta el activo).
-              p - Crédito: Caja $ 1.000.000 (disminuye el activo).
-              p.mb-0 En esta transacción, el total de activos no varía, ya que disminuye el efectivo, pero aumenta el inventario en la misma proporción.
-            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
-              figure
-                img(src='@/assets/curso/temas/tema3/img15.png', alt='Texto que describa la imagen')
-          .row(titulo="B.	Adquisición de mobiliario a crédito por $ 5.000.000")
-            .col-lg-5.col-12
-              p - Débito: Muebles y enseres $ 5.000.000 (aumenta el activo).
-              p - Crédito: Proveedores $ 5.000.000 (aumenta el pasivo).
-              p.mb-0 Aunque no hay salida inmediata de efectivo, se incrementa un activo (el mobiliario) y, al mismo tiempo, surge una obligación con terceros, manteniendo equilibrado el patrimonio.
-            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
-              figure
-                img(src='@/assets/curso/temas/tema3/img16.png', alt='Texto que describa la imagen')
-          .row(titulo="C.	Ingreso por prestación de servicios en efectivo por $ 2.000.000")
-            .col-lg-5.col-12
-              p - Débito: Caja $ 2.000.000 (aumenta el activo).
-              p - Crédito: Ingresos por servicios $ 2.000.000 (aumenta el patrimonio).
-              p.mb-0 Este caso muestra cómo la partida doble no solo asegura el equilibrio del balance contable, sino que también refleja el resultado económico, al incrementar tanto el activo como el patrimonio de la empresa.
-            .col-lg-6.col-12.order-1.order-lg-2.mb-4.mb-lg-0
-              figure
-                img(src='@/assets/curso/temas/tema3/img17.png', alt='Texto que describa la imagen')
-    
-    p.mb-5 La partida doble es el principio que da coherencia a toda la contabilidad. Según Muñoz Maza (2016), este método no solo organiza las operaciones, sino que clarifica el origen y la aplicación de los recursos. Ortiz Anaya (2018) destaca que su correcta aplicación garantiza la elaboración de estados financieros confiables y comparables, mientras que León García (2009) señala que sin ella sería imposible mantener un control contable que permita evaluar la sostenibilidad de un negocio.
-    
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10(data-aos="fade-left")
-        .cajon.color-primario.p-4
-          p.mb-0 El método se fundamenta en que toda transacción afecta, al menos, dos cuentas: una que se debita y otra que se acredita. En operaciones simples puede intervenir un par de cuentas, mientras que en transacciones más complejas participan varias, siempre bajo la regla de que la suma de los débitos es igual a la suma de los créditos. Este principio asegura el equilibrio contable y la integridad de la información financiera.
-    
-    separador
-    #t3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.4	Método de la cuenta T
-    
-    p La cuenta T es una representación gráfica sencilla y tradicional que se utiliza para explicar cómo se registran las operaciones contables. Su nombre proviene de su forma, que asemeja a una gran letra “T” dividida en dos columnas.
-    p.mb-5 En la parte superior se escribe el código y el concepto o nombre de la cuenta, mientras que cada lado de la “T” cumple una función específica:
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop(data-aos="fade-left")
-        ImagenInfografica.color-acento-botones
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/temas/tema3/img18.svg', alt='Imagen decorativa')
-          .tarjeta.bgblanco2.p-3(x="28%" y="78%" numero="+")
-            p Registra los valores que recibe la cuenta.
-          .tarjeta.bgblanco2.p-3(x="72%" y="78%" numero="+")
-            p Registra los valores que entrega la cuenta.
-      .col-lg-10.movil(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/temas/tema3/img18_1.svg', alt='Imagen decorativa')
-    
-    p.mb-5 Cada cuenta T puede mostrar dos aspectos principales:
-    
-    .row.mb-5
-      .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
-        .tarjeta.tarjeta--BG06.h-100
-          figure
-            img(src='@/assets/curso/temas/tema3/img19.png', alt='Texto que describa la imagen')
-          .p-4
-            h5 Movimientos
-            p.mb-0 Anotaciones de los débitos y créditos que se registran durante un periodo.
-      .col-lg-6(data-aos="fade-left")
-        .tarjeta.tarjeta--BG06.h-100
-          figure
-            img(src='@/assets/curso/temas/tema3/img20.png', alt='Texto que describa la imagen')         
-          .p-4
-            h5 Saldo
-            p.mb-0 Diferencia resultante entre los débitos y créditos acumulados.
-    
-    .titulo.mb-5(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
-      h5.mb-0 Naturaleza de las cuentas y su efecto en la cuenta T
-    
-    p.mb-5 Las cuentas pueden ser de naturaleza débito o naturaleza crédito, y esto determina cómo afectan los registros en el debe y el haber dentro de la cuenta T.
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10(data-aos="fade-left")
-        LineaTiempoD.color-acento-botones
-          .row.justify-content-center(numero="1" titulo="Cuentas de naturaleza débito")
-            .col-lg-12.order-lg-2.order-3
-              p Aumentan cuando se registran en el debe y disminuyen cuando se registran en el haber.
-              p Ejemplos:
-              .bgblanco.p-3
-                ul.lista-ul--color
-                  li
-                    i.fas.fa-circle
-                    p.mb-0  #[b Activos:] aumentan con débitos y disminuyen con créditos.
-                  li
-                    i.fas.fa-circle
-                    p.mb-0  #[b Gastos:] aumentan con débitos y disminuyen con créditos.
-                  li
-                    i.fas.fa-circle
-                    p.mb-0  #[b Costos:] aumentan con débitos y disminuyen con créditos.   
-            .col-lg-12.order-lg-3.order-1.mb-md-4
-              figure
-                img(src='@/assets/curso/temas/tema3/img21.png', alt="Imagen decorativa")
-          .row.justify-content-center(numero="2" titulo="Cuentas de naturaleza crédito")
-            .col-lg-12.order-lg-2.order-3
-              p Aumentan cuando se registran en el haber y disminuyen cuando se registran en el debe.
-              p Ejemplos:
-              .bgblanco.p-3
-                ul.lista-ul--color
-                  li
-                    i.fas.fa-circle
-                    p.mb-0  #[b Pasivos:] aumentan con créditos y disminuyen con débitos.
-                  li
-                    i.fas.fa-circle
-                    p.mb-0  #[b Patrimonio:] aumenta con créditos y disminuye con débitos.
-                  li
-                    i.fas.fa-circle
-                    p.mb-0  #[b Ingresos:] aumentan con créditos y disminuyen con débitos.
-                  
-            .col-lg-12.order-lg-3.order-1.mb-md-4
-              figure
-                img(src='@/assets/curso/temas/tema3/img21.png', alt="Imagen decorativa")
-    
-    p.mb-5 De esta manera, los activos, gastos y costos disminuyen con créditos y aumentan con débitos, mientras que pasivos, patrimonio e ingresos se comportan de forma contraria.
-    .titulo.mb-5(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
-      h5.mb-0 Dinámica de la cuenta T
-    
-    p Tradicionalmente, la cuenta T ha sido utilizada como una herramienta visual para representar los movimientos contables. Sin embargo, en la práctica contable actual, este método ha dejado de usarse para la elaboración formal de los registros contables.
-    p.mb-5 Las cuentas T han sido sustituidas por registros oficiales que sirven de base para la elaboración de los comprobantes de contabilidad y los libros auxiliares correspondientes. Además, estos procesos están siendo cada vez más reemplazados por #[i software] especializado, que automatiza y facilita la gestión contable.
-
-    .titulo.mb-5(data-aos="fade-left")
-      img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
-      h5.mb-0 Método de la ecuación contable
-    
-    p.mb-4 Partiendo del método de la contabilidad de partida doble, se establece la ecuación contable fundamental, que muestra el equilibrio entre los activos y la suma de los pasivos y el patrimonio:
-    p.mb-5 #[b ACTIVOS = PASIVOS + PATRIMONIO]
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10(data-aos="fade-left")
-        .cajon.color-secundario.p-4
-          .row.align-items-center
-            .col-lg-2.col-4.mb-4.mb-lg-0
-              figura
-                img(src='@/assets/curso/temas/tema3/img24.svg', alt='Imagen decorativa')
-            .col-lg-10
-              p Según Contabilidad y Finanzas (2009), esta ecuación puede expresarse también de otras formas derivadas de la ecuación original, como:
-              p.mb-0 - Activos + Costos + Gastos = Pasivos + Patrimonio + Ingresos.
-              p.mb-0 - Activos = Pasivos + Patrimonio + (Ingresos - Costos - Gastos).
-              p.mb-0 - Activos - Pasivos = Patrimonio + (Ingresos - Costos - Gastos).
-    
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10(data-aos="fade-left")
-        p.mb-0 Estas variantes permiten un análisis más detallado de los elementos que afectan la situación financiera de una organización.
-    
-    separador
-    #t3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.5 Objetivo y estructura del Plan Único de Cuentas (PUC)
+      h2 3.3 Objetivo y estructura del Plan Único de Cuentas (PUC)
     
     p.mb-5 El #[b Plan Único de Cuentas (PUC)] es una herramienta fundamental en la contabilidad colombiana, establecida mediante el #[b Decreto 2650 de 1993], como un modelo estandarizado para organizar y codificar las cuentas de todas las empresas. Su propósito es asegurar uniformidad en los registros contables, facilitar la preparación de estados financieros comparables y garantizar el cumplimiento de las disposiciones legales.
     
@@ -423,7 +221,7 @@
     p.mb-5 El PUC está conformado por niveles que determinan el grado de detalle:
     
     .titulo-sexto.color-acento-contenido.offset-0(data-aos="fade-left")
-      h5 Tabla 7.
+      h5 Tabla 6.
       i Niveles de la estructura del PUC
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -465,7 +263,7 @@
     p.mb-5 El Plan Único de Cuentas en Colombia clasifica las cuentas contables en nueve clases, que se agrupan según su función en los estados financieros. Estas clases facilitan el registro ordenado y sistemático de las operaciones contables, además de apoyar la elaboración del balance general y el estado de resultados.
     
     .titulo-sexto.color-acento-contenido.offset-0(data-aos="fade-left")
-      h5 Tabla 8.
+      h5 Tabla 7.
       i Niveles de la estructura del PUC
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
