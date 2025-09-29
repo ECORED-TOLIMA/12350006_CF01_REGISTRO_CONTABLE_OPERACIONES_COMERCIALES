@@ -51,7 +51,7 @@
     p.mb-5 Los registros pueden clasificarse según su función y nivel de detalle:
     
     .titulo-sexto.color-acento-contenido.offset-0(data-aos="fade-left")
-      h5 Tabla 11.
+      h5 Tabla 10.
       i Tipos de registros contables
     
     .row.justify-content-center.align-items-center.mb-5
