@@ -50,13 +50,13 @@
       .col-lg-5.mb-lg-0.mb-4(data-aos="fade-right")
         .bloque-texto-c.color-primario.p-4
           i.fas.fa-quote-left
-          h4.mb-2 Una información financiera clara y sistemática es la base para gestionar con eficiencia el capital de trabajo, maximizar el valor de la empresa y garantizar la confianza de los inversionistas
+          p.text-bold.mb-0 Una información financiera clara y sistemática es la base para gestionar con eficiencia el capital de trabajo, maximizar el valor de la empresa y garantizar la confianza de los inversionistas
           span - Ortiz Anaya (2018) 
           i.fas.fa-quote-right
       .col-lg-5(data-aos="fade-left")
         .bloque-texto-c.color-primario.p-4
           i.fas.fa-quote-left
-          h4.mb-2 La contabilidad, más que un requisito legal, es un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para la planeación y el control
+          p.text-bold.mb-0 La contabilidad, más que un requisito legal, es un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para la planeación y el control
           span - Muñoz Maza (2016) 
           i.fas.fa-quote-right
     
@@ -188,7 +188,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 La empresa es el escenario donde se materializa la actividad económica organizada, actuando como motor de desarrollo productivo y social
+            p.text-bold.mb-0 La empresa es el escenario donde se materializa la actividad económica organizada, actuando como motor de desarrollo productivo y social
             i.fas.fa-quote-right
             br
             span González (2021) 
@@ -257,14 +257,14 @@
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
         .bloque-texto-c.color-primario.p-4.mb-4
           i.fas.fa-quote-left
-          h4.mb-2 El marco legal de las sociedades comerciales en Colombia busca equilibrar la libertad empresarial con la protección de los socios y terceros vinculados a la actividad económica
+          p.text-bold.mb-0 El marco legal de las sociedades comerciales en Colombia busca equilibrar la libertad empresarial con la protección de los socios y terceros vinculados a la actividad económica
           span - Muñoz Maza (2016) 
           i.fas.fa-quote-right
         p Entre las más utilizadas se destacan la Sociedad por Acciones Simplificada (S.A.S.), reconocida por su flexibilidad y facilidad de constitución, y la Sociedad Anónima (S.A.), que requiere capital dividido en acciones y un mínimo de cinco accionistas. 
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 Elegir el tipo societario adecuado es clave para definir las obligaciones contables, fiscales y legales de la organización
+            p.text-bold.mb-0 Elegir el tipo societario adecuado es clave para definir las obligaciones contables, fiscales y legales de la organización
             i.fas.fa-quote-right
             br
             span González (2021)
@@ -379,9 +379,9 @@
               img(src="@/assets/curso/temas/tema1/img18.png", alt="alt")
           .crd_hover_txt--body
             .tit-tarj.p-3
-              .acordion__accion.acordion__accion__btn--b.h3.mb-0
-                i.fas.fa-angle-up
               .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
                 h4.mb-3 Empresas públicas
             p.mt-3.px-4  Propiedad del Estado; orientadas a la prestación de servicios esenciales como energía, agua o transporte.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -391,9 +391,9 @@
               img(src="@/assets/curso/temas/tema1/img19.png", alt="alt")
           .crd_hover_txt--body
             .tit-tarj.p-3
-              .acordion__accion.acordion__accion__btn--b.h3.mb-0
-                i.fas.fa-angle-up
               .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
                 h4.mb-3 Empresas privadas
             p.mt-3.px-4  Propiedad de particulares; buscan principalmente generar utilidades.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -403,9 +403,9 @@
               img(src="@/assets/curso/temas/tema1/img20.png", alt="alt")
           .crd_hover_txt--body
             .tit-tarj.p-3
-              .acordion__accion.acordion__accion__btn--b.h3.mb-0
-                i.fas.fa-angle-up
               .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
                 h4.mb-3 Empresas mixtas
             p.mt-3.px-4 Combinan capital público y privado para proyectos estratégicos.
     
@@ -530,7 +530,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 La contabilidad no solo es un requisito normativo, sino un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para el control y la planeación
+            p.text-bold.mb-0 La contabilidad no solo es un requisito normativo, sino un sistema de información que refleja con veracidad la situación patrimonial y económica de la entidad, siendo indispensable para el control y la planeación
             i.fas.fa-quote-right
             br
             span - Muñoz Maza (2016) (p. 34)
@@ -538,7 +538,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 La contabilidad es fundamental para la administración de los recursos, pues permite evaluar la eficiencia operativa y la rentabilidad de cada área de la organización
+            p.text-bold.mb-0 La contabilidad es fundamental para la administración de los recursos, pues permite evaluar la eficiencia operativa y la rentabilidad de cada área de la organización
             i.fas.fa-quote-right
             br
             span González (2021) (p. 58)
@@ -579,7 +579,7 @@
             | Asegurar el cumplimiento normativo y tributario.
         .bloque-texto-c.color-primario.p-4.mb-4(data-aos="fade-left")
           i.fas.fa-quote-left
-          h4.mb-2 La información contable, organizada y clasificada adecuadamente, es el punto de partida para un análisis financiero riguroso que permita tomar decisiones acertadas en inversión, financiamiento y operación
+          p.text-bold.mb-0 La información contable, organizada y clasificada adecuadamente, es el punto de partida para un análisis financiero riguroso que permita tomar decisiones acertadas en inversión, financiamiento y operación
           span - Ortiz Anaya (2018) (p. 21)
           i.fas.fa-quote-right
     

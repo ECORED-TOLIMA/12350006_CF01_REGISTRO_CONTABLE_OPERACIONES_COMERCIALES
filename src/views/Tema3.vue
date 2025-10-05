@@ -519,10 +519,10 @@
             figure
               img(src="@/assets/curso/temas/tema3/img42.png", alt="alt")
           .crd_hover_txt--body
-            .tit-tarj.p-3
-              .acordion__accion.acordion__accion__btn--b.h3.mb-0
-                i.fas.fa-angle-up
+            .tit-tarj.p-3              
               .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
                 h4.mb-3 Operaciones de administración
             p.mt-3.px-4  Gastos relacionados con la gestión administrativa para desarrollar la actividad principal, como honorarios, impuestos, arrendamientos, seguros y servicios.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -532,9 +532,9 @@
               img(src="@/assets/curso/temas/tema3/img43.png", alt="alt")
           .crd_hover_txt--body
             .tit-tarj.p-3
-              .acordion__accion.acordion__accion__btn--b.h3.mb-0
-                i.fas.fa-angle-up
               .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
                 h4.mb-3 Operaciones de ventas
             p.mt-3.px-4  Gastos asociados a la comercialización y distribución de productos o servicios, incluyendo costos de personal, publicidad, promoción y servicios relacionados.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -544,9 +544,9 @@
               img(src="@/assets/curso/temas/tema3/img44.png", alt="alt")
           .crd_hover_txt--body
             .tit-tarj.p-3
-              .acordion__accion.acordion__accion__btn--b.h3.mb-0
-                i.fas.fa-angle-up
               .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up              
                 h4.mb-3 No operacionales
             p.mt-3.px-4 Gastos no relacionados con la actividad principal, tales como gastos financieros, pérdidas por ventas de activos, gastos extraordinarios y otros gastos diversos.
     

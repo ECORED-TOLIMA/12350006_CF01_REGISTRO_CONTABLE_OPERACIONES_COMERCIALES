@@ -361,9 +361,14 @@ table thead
       display: none
     i:last-child
       display: block
-.ubicar h4
-  margin-top: -34px
-  margin-left: 55px  
+
+.ubicar 
+  
+  h4
+    margin-left: 55px
+    margin-top: -35px
+  .acordion__accion.acordion__accion__btn--b.h3.mb-0
+    margin-top: -7px 
 .tit-tarj
   margin-top: 2px
   background-color: #FDD9D6
@@ -510,3 +515,13 @@ i.fas.fa-circle
 
 .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
   display: flex
+
+.pasos-b__header__btn--left,
+.pasos-b__header__btn--right
+  cursor: pointer
+  transition: opacity .2s ease
+
+.is-disabled
+  opacity: .4
+  pointer-events: none
+  cursor: not-allowed
