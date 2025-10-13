@@ -334,14 +334,28 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje SENA. (2023). <em>Clasificación Nacional de Ocupaciones: Diccionario ocupacional e índice alfabético de denominaciones ocupacionales.</em>',
-      link: 'https://observatorio.sena.edu.co/clasificacion/cno',
+        'Congreso de Colombia. (2009). <em>Ley 1314 de 2009</em>. Por la cual se regulan los principios y normas de contabilidad e información financiera y de aseguramiento de la información. Bogotá, Colombia.',
+      link: '',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje (SENA). (2015). <em>Sistema Nacional de Formación para el Trabajo.</em>',
-      link:
-        'https://competencias.sena.edu.co/page?3,plantilla,productos-aprobados,O,es,0',
+        'International Accounting Standards Board (IASB). (2023). <em>Norma Internacional de Información Financiera para Pequeñas y Medianas Entidades (NIIF para las PYMES)</em> (versión en español). IFRS Foundation.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1989). <em>Decreto 624 de 1989 (Estatuto Tributario)<em>. Bogotá, Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1993). <em>Decreto 2650 de 1993 (Plan Único de Cuentas para comerciantes)<em>. Bogotá, Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2015). <em>Decreto 2420 de 2015. Por el cual se compilan y actualizan los marcos técnicos normativos de información financiera y de aseguramiento de la información</em>. Bogotá, Colombia.',
+      link: '',
     },
   ],
   creditos: [
@@ -396,13 +410,13 @@ export default {
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador <em>Full stack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
 
         {
           nombre: 'Veimar Celis Meléndez',
-          cargo: 'Desarrollador <em>Full stack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

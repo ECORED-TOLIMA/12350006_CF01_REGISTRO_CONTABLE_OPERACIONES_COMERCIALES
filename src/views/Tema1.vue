@@ -296,7 +296,7 @@
           tr(data-aos="fade-left")
             td(rowspan="3") Sociedades nacionales, extranjeras y mixtas
             td Sociedad nacional
-            td No cumple las condiciones para ser considerada extranjera.
+            td Persona jurídica constituida bajo las leyes colombianas y con domicilio en Colombia.
           tr(data-aos="fade-left")
             td Sociedad extranjera
             td Constituida bajo leyes extranjeras, con domicilio principal fuera del país. (Art. 469 del Código de Comercio).

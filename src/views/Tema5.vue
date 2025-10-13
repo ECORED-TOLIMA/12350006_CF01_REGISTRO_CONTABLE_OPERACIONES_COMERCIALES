@@ -238,9 +238,7 @@
             p.mb-0 Registros contables vs. declaraciones tributarias presentadas.
             
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-10
-        p.mb-0 La conciliación periódica permite detectar diferencias por errores, pagos no registrados, notas bancarias no contabilizadas o irregularidades, y asegura que los estados financieros reflejen la realidad de la empresa.
+    p.mb-0 La conciliación periódica permite detectar diferencias por errores, pagos no registrados, notas bancarias no contabilizadas o irregularidades, y asegura que los estados financieros reflejen la realidad de la empresa.
 
 
 </template>
